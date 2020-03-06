@@ -1,0 +1,16 @@
+[From https://github.com/BodhiDev/bodhi5packages/blob/master/bodhi-slideshow/usr/share/ubiquity-slideshow/slides/documentation.html]
+<div class="content"><ul>
+	<li>When you booted Bodhi you were greeted by our Quickstart Guide, which is designed to get you started using Bodhi. </li>
+	<li>Past this quick start guide we have our documentation wiki, a rich source of information.</li>
+</ul></div>
+
+
+[French translation]
+<div class="content"><ul>
+	<li>Au démarrage du système, vous êtes accueilli par le Quickstart Guide afin de vous familiariser avec Bodhi. </li> *** (TN: Whitespace before </li> tag?) ***
+	<li>Nous disposons d'un Wiki richement documenté pour aller au-delà de ce guide de démarrage rapide.</li>
+</ul></div>
+
+
+[documentation.png embedded text -> French translation]
+Documentation -> Documentation
