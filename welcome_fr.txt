@@ -1,0 +1,20 @@
+[From https://github.com/BodhiDev/bodhi5packages/blob/master/bodhi-slideshow/usr/share/ubiquity-slideshow/slides/welcome.html]
+<div class="content"><ul>
+	<li>Thank you for choosing Bodhi Linux!</li>
+	<li>We strongly believe in minimalism and user choice, therefore you will only get a few tools out of the box. Everything else you might need can be installed with ease using our AppCenter.</li>
+	<li>Bodhi Linux uses the Moksha Desktop Environment which gives you a lightweight and beautiful operating system you can style just as you want it to look.</li>
+	<li>To top it all off, we have excellent documentation and an active, friendly community always ready to lend a hand on any issue you might have.  Drop by our forums and see for yourself!</li>
+</ul></div>
+
+
+[French translation]
+<div class="content"><ul>
+	<li>Merci d'avoir choisi Bodhi Linux !</li>
+	<li>Nous croyons au minimalisme et à la liberté de choix : donc peu de choses par défaut. Notre AppCenter vous permettra d'installer facilement tout ce dont vous avez besoin par la suite.</li>
+	<li>Bodhi Linux s'appuie sur l'environnement de bureau Moksha pour vous offrir un système léger et beau que vous pouvez personnaliser à votre guise.</li>
+	<li>En plus d'une solide documentation, nous disposons d'une communauté attentive et amicale prompte à vous tendre la main. Venez sur nos forums pour vous en convaincre !</li>
+</ul></div>
+
+
+[welcome.png embedded text -> French translation]
+Welcome -> Bienvenue
