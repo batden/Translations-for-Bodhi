@@ -1,2 +1,2 @@
 # Translations-for-Bodhi
-French translations (latest versions will appear here) for the Bodhi Linux project.
+French translations (only latest versions will appear here) for the Bodhi Linux project.
