@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Link
+Name=DeskTitle
+Icon=e-module-desktitle
+X-Enlightenment-ModuleType=utils
+Comment=Gadget to display the current desktop's name.
+Comment[fr]=Un gadget pour afficher le nom du bureau actuel.
