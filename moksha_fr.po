@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: moksha\n"
 "Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2020-07-02 09:00+0200\n"
-"PO-Revision-Date: 2020-08-21 10:26+0200\n"
+"PO-Revision-Date: 2020-09-16 06:53+0200\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -3001,7 +3001,7 @@ msgstr ""
 
 #: src/bin/e_main.c:403
 msgid "Moksha cannot initialize Ecore_File!\n"
-msgstr "Moksha ne parvient pas à initialiser Ecore_File!\n"
+msgstr "Moksha ne parvient pas à initialiser Ecore_File !\n"
 
 #: src/bin/e_main.c:412
 msgid "Moksha cannot initialize Ecore_Con!\n"
@@ -3272,8 +3272,7 @@ msgstr "Configuration des périphériques d'entrée"
 #: src/bin/e_main.c:931
 msgid "Moksha cannot set up its grab input handling system.\n"
 msgstr ""
-"Moksha ne parvient pas à initialiser son système de périphériques "
-"d'entrées.\n"
+"Moksha ne parvient pas à initialiser son système de périphériques d'entrée.\n"
 
 #: src/bin/e_main.c:938
 msgid "Setup Modules"
