@@ -7,7 +7,7 @@
 
 [French translation]
 <div class="content"><ul>
-	<li>Au démarrage du système, vous êtes accueilli par le Quickstart Guide afin de vous familiariser avec Bodhi. </li> *** (TN: Whitespace before </li> tag?) ***
+	<li>Au démarrage du système, vous êtes accueilli par le Quickstart Guide afin de vous familiariser avec Bodhi.</li>
 	<li>Nous disposons d'un Wiki richement documenté pour aller au-delà de ce guide de démarrage rapide.</li>
 </ul></div>
 
