@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: moksha\n"
 "Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2020-10-24 15:51+0200\n"
-"PO-Revision-Date: 2020-10-30 07:31+0100\n"
+"PO-Revision-Date: 2020-10-30 08:03+0100\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -8595,7 +8595,7 @@ msgstr "Divers"
 
 #: src/modules/ibar/e_mod_config.c:147
 msgid "Icon focus flash"
-msgstr "Clignotement de l'icône"
+msgstr "Pulsation des icônes"
 
 #: src/modules/ibar/e_mod_config.c:149
 msgid "Lock icon move"
