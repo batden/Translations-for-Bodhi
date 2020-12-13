@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Link
+Name=ComptonMod
+Name[sk]=ComptonMod
+Icon=e-module-comptonmod
+X-Enlightenment-ModuleType=look
+Comment=Module to run compton compositor
+Comment[fr]=Module d'activation du compositeur Compton.
+Comment[sk]=Modul na aktiváciu Compton kompositora
