@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Bodhi AppCenter
+Name[ru]=Центр приложений Bodhi
+GenericName=Install Software
+GenericName[fr]=Installer des logiciels
+GenericName[ru]=Установка программ
+Comment=Online Software Center
+Comment[fr]=Centre logiciel en ligne
+Comment[ru]=Интернет-репозиторий программного обеспечения
+Exec=x-www-browser http://appcenter.bodhilinux.com
+Icon=system-software-install
+Terminal=false
