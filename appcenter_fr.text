@@ -1,0 +1,14 @@
+<div class="main wide">
+<img class="background" src="l10n/fr/appcenter.png" />
+
+<div class="content"><ul>
+<div class="content"><ul>
+	<li>Le plus simple pour ajouter des applications est d'utiliser notre AppCenter.</li>
+	<li>AppCenter est un service en ligne fourni par Bodhi afin d'agrémenter votre nouveau système d'un choix logiciel varié.</li>
+	<li>Nous proposons aussi Synaptic pour accéder à une multitude d'applications offertes par Ubuntu et nos propres dépôts.</li>
+	<li>En quête d'un logiciel particulier hors collection ? Demandez, nous l'ajouterons pour vous satisfaire !</li>
+</ul></div>
+
+</ul></div>
+<p class="footer"></p>
+</div>

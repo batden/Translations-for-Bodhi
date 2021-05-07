@@ -1,24 +1,12 @@
-[From https://github.com/BodhiDev/bodhi5packages/blob/master/bodhi-slideshow/usr/share/ubiquity-slideshow/slides/donations.html]
-<div class="content"><ul>
-	<li>Bodhi Linux is a not for profit organization that is powered by an ever growing number of community volunteers.</li>
-	<li>You can help maintain this distribution by sending us a donation.</li>
-	<li>It is also possible to become a Bodhi member! New members will receive some nice Bodhi goodies when joining.</li>
-	<li>For more information about donations and memberships, visit our site.</li>
-</ul>
-<p class="footer">The installation will finish soon. We hope you enjoy Bodhi Linux.</p>
-</div>
+<div class="main wide">
+<img class="background" src="l10n/fr/donations.png" />
 
-
-[French translation]
 <div class="content"><ul>
 	<li>Bodhi Linux est une organisation à but non lucratif animée par un nombre toujours croissant de volontaires de la communauté.</li>
 	<li>Vous pouvez aider à soutenir cette distribution en faisant un don.</li>
-	<li>Il est également possible de devenir membre de Bodhi ! Les nouveaux membres recevront des goodies sympas lors de leur adhésion.</li>
+	<li>Il est également possible de devenir membre de Bodhi ! Les nouveaux membres recevront des goodies sympas à l'adhésion.</li>
 	<li>Pour de plus amples informations sur les dons et adhésions, visitez notre site.</li>
 </ul>
 <p class="footer">L'installation va bientôt se terminer. Nous espérons que vous apprécierez Bodhi Linux.</p>
 </div>
-
-
-[donations.png embedded text -> French translation]
-Donations-> Dons
+</div>
