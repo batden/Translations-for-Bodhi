@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quickstart software\n"
+"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
+"PO-Revision-Date: 2021-05-10 13:58+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: html/software.html+html.head.title:5-5
+msgid "Bodhi QuickStart - Installing Software"
+msgstr "Bodhi QuickStart - Installing Software"
+
+#: html/software.html+html.body.header.a:-1--1
+msgid "(Bodhi Linux Logo)"
+msgstr "(Bodhi Linux Logo)"
+
+#: html/software.html+html.body.header.a:-1--1
+msgid "(Moksha Logo)"
+msgstr "(Moksha Logo)"
+
+#: html/software.html+html.body.header.nav.ul.li:19-11
+msgid ""
+"QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html"
+"\">QuickStart Index"
+msgstr ""
+"QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html"
+"\">QuickStart Index"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:21-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:24-15
+msgid "Connecting to the Internet"
+msgstr "Connecting to the Internet"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:25-15
+msgctxt "html/software.html html.body.header.nav.ul.li.ul.li:25-15"
+msgid "Installing Software"
+msgstr "Installing Software"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:28-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
+"Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
+"Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:31-15
+msgid "Moksha Basics"
+msgstr "Moksha Basics"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:32-15
+msgid "Quick Launcher"
+msgstr "Quick Launcher"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:35-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:38-15
+msgid "Quick FAQ"
+msgstr "Quick FAQ"
+
+#: html/software.html+html.body.header.nav.ul.li.ul.li:39-15
+msgid "Resources"
+msgstr "Resources"
+
+#: html/software.html+html.body.header.nav.ul.li:42-11
+msgid ""
+"Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Credits"
+msgstr ""
+"Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Credits"
+
+#: html/software.html+html.body.div.div.div.h1:52-11
+msgctxt "html/software.html html.body.div.div.div.h1:52-11"
+msgid "Installing Software"
+msgstr "Installing Software"
+
+#: html/software.html+html.body.div.div.div.p:61-11
+msgid ""
+"In most cases, you will want to have an Internet connection established to "
+"install software in <strong>Bodhi Linux</strong>.<br /><br /> Please follow "
+"this link if you need assistance <a class=\"normal\" href=\"internet.html"
+"\">Connecting to the Internet</a>."
+msgstr ""
+"Dans la plupart des cas, l'installation de logiciels dans Bodhi Linux passe "
+"par une connexion Internet active.</strong>.<br /><br />Suivez ce lien si "
+"vous avez besoin d'aide : <a class=\"normal\" href=\"internet.html"
+"\">Connecting to the Internet</a>."
+
+#: html/software.html+html.body.div.div.div.div.p:69-11
+msgid "Updating System via Terminology"
+msgstr "Mise à jour du système via Terminology"
+
+#: html/software.html+html.body.div.div.div.div.p:71-13
+msgid ""
+"The first thing to do after establishing an internet connection is to update "
+"your system.<br /><br /> There are multiple methods to achieve this, but the "
+"simplest method is by using the terminal. Run the following command in "
+"Terminology :<br/><br/>"
+msgstr ""
+"La première chose à faire après l'établissement d'une connexion Internet est "
+"de mettre à jour votre système.<br /><br />Il existe plusieurs méthodes pour "
+"y parvenir, la plus simple consiste à utiliser le terminal. Exécutez la "
+"commande suivante dans Terminologie :<br/><br/>"
+
+#: html/software.html+html.body.div.div.div.div.div:75-13
+msgid "sudo apt update && sudo apt dist-upgrade"
+msgstr "sudo apt update && sudo apt dist-upgrade"
+
+#: html/software.html+html.body.div.div.div.div.p:77-13
+msgid ""
+"If you installed the new <em><b>hwe</b></em> version of <strong>Bodhi</"
+"strong>, kernel updates will be enabled by default."
+msgstr ""
+"Si vous avez installé la nouvelle version <em><b>HWE</b></em> de "
+"<strong>Bodhi</strong>, les mises à jour du noyau sont activées par défaut."
+
+#: html/software.html+html.body.div.div.div.div.p.br:78-13
+msgid ""
+"But traditionally, <strong>Bodhi</strong> has taken the view of \"<em>not "
+"forcing kernel updates.</em>\" So users of non-hwe versions of Bodhi, who "
+"want to update the kernel, simply install this meta package to ensure you'll "
+"always be offered the latest kernel in the updates:<br><br>"
+msgstr ""
+"Par convention,<strong>Bodhi</strong> a pris le parti de «<em>ne pas imposer "
+"les mises à jour du noyau.</em>». Les utilisateurs des versions non HWE de "
+"<strong>Bodhi</strong> qui souhaitent ces mises à jour peuvent installer ce "
+"méta-package qui leur permettra de recevoir les nouveaux noyaux :<br><br>"
+
+#: html/software.html+html.body.div.div.div.div.div:79-13
+msgid "sudo apt install linux-generic"
+msgstr "sudo apt install linux-generic"
+
+#: html/software.html+html.body.div.div.div.div.p:87-11
+msgid ""
+"<strong>Bodhi Linux AppCenter</strong> <a class=\"img normalpicture\" href="
+"\"../images/appcenter.png\"> <img src=\"../images/appcenter.png\" alt="
+"\"(Bodhi Appcenter Website)\" class=\"fiftywidth center changeonlowwidth\" /"
+"> </a>"
+msgstr ""
+"<strong>Bodhi Linux AppCenter</strong> <a class=\"img normalpicture\" href="
+"\"../images/appcenter.png\"> <img src=\"../images/appcenter.png\" alt="
+"\"(Bodhi Appcenter Website)\" class=\"fiftywidth center changeonlowwidth\" /"
+"> </a>"
+
+#: html/software.html+html.body.div.div.div.div.p:92-13
+msgid ""
+"The <strong>Bodhi Linux</strong> team has created the <a class=\"normal\" "
+"href=\"http://appcenter.bodhilinux.com\"><strong>AppCenter</strong></a> as a "
+"very fast and simple way to install many common applications. While you "
+"won't find every application that you <em>can</em> install in <strong>Bodhi "
+"Linux</strong> at the <a class=\"normal\" href=\"http://appcenter.bodhilinux."
+"com\"><strong>AppCenter</strong></a>, you <em>will</em> find what we "
+"consider to be \"best of breed\" applications for each particular category."
+msgstr ""
+"Lorsque l'équipe de <strong>Bodhi Linux</strong> a créé son <a class=\"normal"
+"\" href=\"http://appcenter.bodhilinux.com\"><strong>AppCenter</strong></a>, "
+"c'était pour faciliter l'installation d'applications. Bien que vous ne "
+"trouverez pas toutes les applications<em>disponibles</em> dans <strong>Bodhi "
+"Linux</strong> sur notre <a class=\"normal\" href=\"http://appcenter."
+"bodhilinux.com\"><strong>AppCenter</strong></a>, vous découvrirez "
+"<em>néanmoins</em> ce que nous considérons comme le meilleur pour chaque "
+"catégorie."
+
+#: html/software.html+html.body.div.div.div.div.p:99-13
+msgid ""
+"Here's a quick tutorial on how to install applications at the <a class="
+"\"normal\" href=\"http://appcenter.bodhilinux.com\"><strong>AppCenter</"
+"strong></a>:"
+msgstr ""
+"Voici un bref tutoriel sur la façon d'installer des applications via notre<a "
+"class=\"normal\" href=\"http://appcenter.bodhilinux.com\"><strong>AppCenter</"
+"strong></a>:"
+
+#: html/software.html+html.body.div.div.div.div.ul.li.h4:102-17
+msgid "Find your application."
+msgstr "Trouver votre application."
+
+#: html/software.html+html.body.div.div.div.div.ul.li.p:103-17
+msgid ""
+"If you already know the name of the application you wish to install, just "
+"type it in the search bar.<br /> If not, simply browse through the "
+"categories listed on the front page."
+msgstr ""
+"Si vous connaissez déjà le nom de l'application que vous souhaitez "
+"installer, entrez celui-ci dans la barre de recherche.<br />Dans le cas "
+"contraire, il suffit de parcourir les catégories listées sur la page "
+"d'accueil."
+
+#: html/software.html+html.body.div.div.div.div.ul.li.h4:110-17
+msgid "Navigate to the page."
+msgstr "Accédez à la page."
+
+#: html/software.html+html.body.div.div.div.div.ul.li.p:111-17
+msgid ""
+"Whichever method you choose to find your application, you will be presented "
+"with a link that leads to a page with a description of the application..<br /"
+"> Each application has its own page with a description of the application "
+"and a screenshot of it."
+msgstr ""
+"Quelle que soit la méthode que vous choisissez, un lien menant à une page "
+"contenant une description de l'application vous sera présenté.<br />Chaque "
+"application possède sa propre page avec une description et une capture "
+"d'écran de celle-ci."
+
+#: html/software.html+html.body.div.div.div.div.ul.li.h4:117-17
+msgid "Install it!"
+msgstr "Installez !"
+
+#: html/software.html+html.body.div.div.div.div.ul.li.p:118-17
+msgid ""
+"Simply click the \"<em>Install Now</em>\" button and enter your password "
+"when you are prompted for it. That's it! Your application and all of its "
+"dependencies will be automatically installed."
+msgstr ""
+"Cliquez sur le bouton «<em> Install Now </em>» et entrez votre mot de passe "
+"lorsque vous y êtes invité. Voilà ! L'application et ses dépendances seront "
+"automatiquement installées."
+
+#: html/software.html+html.body.div.div.div.div.p:129-11
+msgid "Synaptic Package Manager"
+msgstr "Gestionnaire de paquets Synaptic"
+
+#: html/software.html+html.body.div.div.div.div.p:131-13
+msgid ""
+"The <strong>Synaptic Package Manager</strong>, common to all <strong>Debian</"
+"strong> based distributions, is installed in <strong>Bodhi 6.0</strong> by "
+"default. If you installed an older version of <strong>Bodhi</strong>, "
+"install it by clicking the icon below or use <code>sudo apt install "
+"synaptic</code> from the command line."
+msgstr ""
+"Le <strong>gestionnaire de paquets Synaptic</strong>, disponible dans toutes "
+"les distributions de la famille<strong>Debian</strong>, est intallé par "
+"défaut dans <strong>Bodhi 6.0</strong>. Si vous disposez d'une version "
+"antérieure de <strong>Bodhi</strong>, installez l'application en cliquant "
+"sur le bouton ci-dessous, ou avec<code>sudo apt install synaptic</code> en "
+"ligne de commande."
+
+#: html/software.html+html.body.div.div.div.div.p:140-13
+msgid ""
+"With <strong>Synaptic Package Manager</strong>, you have access to all of "
+"the applications in the <strong>Bodhi</strong> and <strong>Ubuntu</strong> "
+"repositories."
+msgstr ""
+"Le  <strong>gestionnaire de paquets Synaptic</strong> vous donne accès à "
+"l'ensemble des applications des dépôts logiciels pour <strong>Bodhi</strong> "
+"et <strong>Ubuntu</strong>."
+
+#: html/software.html+html.body.div.div.div.div.p:145-13
+msgid ""
+"Please see our <a class=\"normal\" href=\"http://wiki.bodhilinux.com\">Wiki</"
+"a> for complete instructions on using <strong>Synaptic Package Manager</"
+"strong>."
+msgstr ""
+"Consultez notre <a class=\"normal\" href=\"http://wiki.bodhilinux.com"
+"\">Wiki</a> pour des instructions détaillées quant à l'utilisation du "
+"<strong> gestionnaire de paquets Synaptic</strong>."
+
+#: html/software.html+html.body.div.div.div.div.p:153-11
+msgid "Snap, Flatpak and AppImage"
+msgstr "Snap, Flatpak et AppImage"
+
+#: html/software.html+html.body.div.div.div.div.p:155-13
+msgid ""
+"In an effort to move away from platform specific packaging methods to "
+"platform agnostic ones, several new tools for packaging, distributing, "
+"installing software have been developed. Most noteworthy are Snap, Flatpak "
+"and AppImage. These are not supported by default in <strong>Bodhi</strong>."
+msgstr ""
+"Dans un effort pour passer outre les méthodes d'empaquetage spécifiques à "
+"une plate-forme vers des solutions indépendantes, plusieurs nouveaux outils "
+"d'empaquetage, de distribution et d'installation de logiciels ont été "
+"développés. Les plus remarquables sont Snap, Flatpak et AppImage. Ils ne "
+"sont pas pris en charge par défaut dans <strong> Bodhi </strong>. "
+
+#: html/software.html+html.body.div.div.div.div.p:158-13
+msgid ""
+"Please see our <a class=\"normal\" href=\"http://wiki.bodhilinux.com\">Wiki</"
+"a> for complete instructions on using these tools."
+msgstr ""
+"Consultez notre <a class=\"normal\" href=\"http://wiki.bodhilinux.com"
+"\">Wiki</a> pour des instructions détaillées quant à l'utilisation de ces "
+"outils."
+
+#: html/software.html+html.body.div.div.div.div.p:166-11
+msgid "gDebi"
+msgstr "GDebi"
+
+#: html/software.html+html.body.div.div.div.div.p:168-13
+msgid ""
+"gdebi is a simple tool to install deb files. It lets you install local deb "
+"packages, resolving and installing all dependencies."
+msgstr ""
+"GDebi est un outil simple pour installer des paquets .deb. Il offre la "
+"possibilité d'installer des paquets .deb locaux en se chargeant de la "
+"résolution des dépendances."
+
+#: html/software.html+html.body.div.div.div.div.p:173-13
+msgid ""
+"gDebi was installed by default in recent past versions of <strong>Bodhi</"
+"strong>. If you wish to install it click the icon below or use <code>sudo "
+"apt install gdebi</code> from the command line."
+msgstr ""
+"GDebi était installé par défaut dans les versions antérieures de "
+"<strong>Bodhi</strong>. Si vous souhaitez l'utilisez, cliquez sur le bouton "
+"ci-dessous, ou tapez <code>sudo apt install gdebi</code> en ligne de "
+"commande."
+
+#: html/software.html+html.body.div.div.div.div.p:181-11
+msgid "apt-get & dpkg (advanced)"
+msgstr "apt-get & dpkg (utilisation avancée)"
+
+#: html/software.html+html.body.div.div.div.div.p:183-13
+msgid ""
+"The command-line tools <code>apt</code>, <code>apt-get</code> and "
+"<code>dpkg</code> are the \"backend\" to the above methods of installing "
+"applications. Advanced users are free to use these tools from the command "
+"line, but this is beyond is beyond the scope of this document."
+msgstr ""
+"Les outils en ligne de commande <code>apt</code>, <code>apt-get</code> et "
+"<code>dpkg</code> sont la partie immergée des méthodes d'installation "
+"envisagées ci-dessus. Les utilisateurs avancés pourront utiliser ces outils "
+"depuis un terminal, mais cela n'entre pas dans le cadre de ce document."
+
+#: html/software.html+html.body.div.div.div.div.p:187-13
+msgid "Advanced users may also install from source code."
+msgstr ""
+"De même, les méthodes d'installation à partir du code source relèvent du "
+"domaine des utilisateurs avertis."
