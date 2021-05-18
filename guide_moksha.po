@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quickstart moksha\n"
+"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
+"PO-Revision-Date: 2021-05-18 18:55+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: html/moksha.html+html.head.title:5-5
+msgid "Bodhi QuickStart - Moksha Basics"
+msgstr "Bodhi QuickStart - Les bases de Moksha"
+
+#: html/moksha.html+html.body.header.a:-1--1
+msgid "(Bodhi Linux Logo)"
+msgstr "(Bodhi Linux Logo)"
+
+#: html/moksha.html+html.body.header.a:-1--1
+msgid "(Moksha Logo)"
+msgstr "(Moksha Logo)"
+
+#: html/moksha.html+html.body.header.nav.ul.li:19-11
+msgid ""
+"QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html"
+"\">QuickStart Index"
+msgstr ""
+"Index du Guide de démarrage</a><a class=\"nav\" target=\"_parent\" href="
+"\"index.html\">Index du Guide de démarrage"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:21-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Pour commencer</a> <ul>"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:24-15
+msgid "Connecting to the Internet"
+msgstr "Connexion à Internet"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:25-15
+msgid "Installing Software"
+msgstr "Installer des logiciels"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:28-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
+"Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Pour "
+"commencer</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:31-15
+msgctxt "html/moksha.html html.body.header.nav.ul.li.ul.li:31-15"
+msgid "Moksha Basics"
+msgstr "Les bases de Moksha"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:32-15
+msgid "Quick Launcher"
+msgstr "Lanceur rapide"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:35-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Crédits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Encore plus d'infos</a> <ul>"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:38-15
+msgid "Quick FAQ"
+msgstr "FAQ rapide"
+
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:39-15
+msgid "Resources"
+msgstr "Ressources"
+
+#: html/moksha.html+html.body.header.nav.ul.li:42-11
+msgid ""
+"Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Credits"
+msgstr ""
+"Encore plus d'infos</a><a class=\"nav\" target=\"_parent\" href=\"appendix."
+"html\">Crédits"
+
+#: html/moksha.html+html.body.div.div.div.h1:52-11
+msgctxt "html/moksha.html html.body.div.div.div.h1:52-11"
+msgid "Moksha Basics"
+msgstr "Les bases de Moksha"
+
+#: html/moksha.html+html.body.div.div.div.p:67-9
+msgid ""
+"<strong> Organize your Tasks with Virtual Desktops </strong> <br> <br class="
+"\"onmobile clear\" /> <a class=\"img normalpicture displaysmall\" href=\"../"
+"images/desktops.png\"> <img src=\"../images/desktops.png\" alt=\"(An example "
+"of a Places Gadget)\" class=\"imageonlowwidth\" /> </a> <br /> Virtual "
+"Desktops allow you to group applications of a certain type on one desktop "
+"and those of a different type on another. You have initially four virtual "
+"desktops, but you can change this number."
+msgstr ""
+"<strong> Organisez vos tâches avec les bureaux virtuels</strong> <br> <br "
+"class=\"onmobile clear\" /> <a class=\"img normalpicture displaysmall\" href="
+"\"../images/desktops.png\"> <img src=\"../images/desktops.png\" alt=\"(An "
+"example of a Places Gadget)\" class=\"imageonlowwidth\" /> </a> <br /> Les "
+"bureaux virtuels vous permettent de regrouper les applications d'un certain "
+"type sur un bureau et celles d'un type différent sur un autre. Vous disposez "
+"initialement de quatre bureaux virtuels, mais vous pouvez modifier ce nombre."
+
+#: html/moksha.html+html.body.div.div.div.p:78-11
+msgid ""
+"The pager gadget on the shelf shows small graphics of the available desktops "
+"with the applications running in each."
+msgstr ""
+"Le gadget miniatures des bureaux affiche les vues des bureaux disponibles "
+"avec les applications en cours d'exécution dans chacun d'eux."
+
+#: html/moksha.html+html.body.div.div.div.p:81-11
+msgid "There are several ways to switch among them:"
+msgstr "Il y a plusieurs façons de passer de l'un à l'autre :"
+
+#: html/moksha.html+html.body.div.div.div.ul.li:85-13
+msgid ""
+"With the Pager Gadget, simply click on the graphic of the Desktop you wish "
+"to be in."
+msgstr ""
+"Dans la miniature des bureaux, cliquez sur la vue du bureau que vous "
+"souhaitez atteindre."
+
+#: html/moksha.html+html.body.div.div.div.ul.li:86-13
+msgid ""
+"Use the keyboard shortcut: Ctrl+Alt + &lt;ArrowKey> in the direction you "
+"wish to move."
+msgstr "À l'aide d'un raccourci clavier : Ctrl+Alt+Flèche de direction."
+
+#: html/moksha.html+html.body.div.div.div.ul.li:87-13
+msgid "Choose your desired desktop via <i>Main Menu>Desktop>Virtual</i>."
+msgstr ""
+"Choisissez le bureau en passant par <i>Menu principal > Bureau > Virtuel</i>."
+
+#: html/moksha.html+html.body.div.div.div:96-9
+msgid ""
+"<strong> The Entire Desktop is the Menu </strong> <br /> <br> A click on any "
+"empty space of the desktop will bring up the Main Menu, where you can launch "
+"applications, adjust settings, shutdown the system, and so on. This is the "
+"standard on a fresh Bodhi installation. Most consider it very convenient. "
+"For the few that do not, the mouse-binding \"Show Main Menu\", can be easily "
+"removed/configured in: <i>Main Menu>Settings>All>Input>Mouse Bindings</i>, "
+"along with any other mouse-bindings.<br /><br /> Right-clicking an empty "
+"space on the desktop will bring up the Favorites Menu. Since there are no "
+"favorited applications on a fresh Bodhi installation, the Favorites Menu "
+"will not show on right-click. It is waiting in anticipation for you to add "
+"applications! To do this, go to <i>Main Menu > Settings > All > Apps > "
+"Favorite Applications</i>"
+msgstr ""
+"<strong> Le bureau en entier est un menu</strong> <br /> <br> Cliquer sur un "
+"espace vide du bureau fait apparaître le Menu principal qui permet de lancer "
+"des applications, ajuster les paramètres, éteindre le système, etc. C'est la "
+"disposition par défaut sur une nouvelle installation de Bodhi. La grande "
+"majorité des utilisateurs considèrent que c'est très pratique. Pour les "
+"autres, le raccourci souris de l'action « Afficher le menu principal » peut "
+"facilement être supprimé ou reconfiguré en passant par : <i>Menu principal > "
+"Configuration > Tout > Entrée > Raccourcis souris</i>, à l'instar de tout "
+"autre raccourci.<br /><br />Un clic droit sur un espace vide du bureau "
+"affiche le menu des favoris. Comme vous n'aurez aucune application favorite "
+"sur une nouvelle installation de Bodhi, le menu des favoris ne s'affichera "
+"pas lors d'un clic droit. Il attend avec impatience que vous ajoutiez des "
+"applications ! Pour ce faire, allez dans <i>Menu principal > Configuration > "
+"Tout > Applis > Applications favorites</i>."
+
+#: html/moksha.html+html.body.div.div.div:122-9
+msgid ""
+"<strong id=\"gadget\"> Many Gadgets Show System Info </strong> <br /> <br> "
+"Gadgets perform a wide variety of functions. Many display system "
+"information, such as battery level, time, or CPU frequency. Others allow you "
+"to interact with the system in some way, such as adjusting the volume or the "
+"screen brightness. Most allow multiple instances in different locations, for "
+"instance on a shelf as well as on the desktop. <br /><br /> They can be "
+"found and added to the Desktop via: <i>Main Menu>Settings>Gadgets</i>"
+msgstr ""
+"<strong id=\"gadget\">Beaucoup de gadgets affichent des informations système "
+"</strong> <br /> <br> Les gadgets remplissent une grande variété de "
+"fonctions. Beaucoup s'intéressent aux informations système telles que la "
+"charge de la batterie, la fréquence du processeur ou l'heure. D'autres vous "
+"permettent d'interagir avec le système d'une manière ou d'une autre, comme "
+"le réglage du volume ou de la luminosité de l'écran. La plupart autorisent "
+"des instances multiples, placées à différents endroits, par exemple sur un "
+"rayon et sur le bureau. <br /> <br /> Pour ajouter des gadgets au bureau, "
+"passez par : <i> Menu principal > Configuration > Gadgets</i>"
+
+#: html/moksha.html+html.body.div.div.div:140-9
+msgid ""
+"<strong id=\"module\"> Modules Control Gadget Availability </strong> <br /> "
+"<br> A gadget will be available only if its module is loaded. Put simply, a "
+"gadget is an instance of a module. To load/unload modules, go to <i>Main "
+"Menu > Settings > Modules</i>. Bodhi comes with a wide selection of modules "
+"installed by default, and more can be installed at your discretion through "
+"the Bodhi AppCenter and Synaptic Package Manager"
+msgstr ""
+"<strong id=\"module\">Les modules déterminent la disponibilité des gadgets </"
+"strong> <br /> <br>Un gadget n'est disponible que si son module est chargé. "
+"En bref, un gadget est une instance d'un module. Pour activer ou désactiver "
+"des modules, passez par <i>Menu principal > Configuration > Modules</i>. "
+"Bodhi dispose d'une large sélection de modules installés par défaut. Vous "
+"pouvez en installer d'autres encore, en utilisant l' AppCenter et Synaptic."
+
+#: html/moksha.html+html.body.div.div.div:153-9
+msgid ""
+"<strong class=\"centertext\"> Shelves - The Taskbar/Systray/Dock's Home, "
+"Sweet Home </strong> <br /> <br> Moksha provides shelves to house your "
+"gadgets and launchers - a convenient alternative to having them on the "
+"desktop. (Most gadgets can be added to shelves.) Shelves can be located "
+"anywhere on a border of your desktop, and you can have more than one shelf "
+"on a desktop as well as different shelves on different virtual desktops. "
+"Managing the number of shelves as well as their location, size, and other "
+"attributes is done under <i>Main Menu > Settings > Shelves</i>. To manage "
+"the content of a shelf (i.e. its gadgets), right-click on the shelf and "
+"choose <i>Shelf > Contents</i>. <em>Contents</em>. <a class=\"normal\" href="
+"\"../images/shelves.png\"> <img class=\"eightywidth center\" src=\"../images/"
+"shelves.png\" alt=\"(A standard Shelf with many Gadgets)\" /> </a>"
+msgstr ""
+"<strong class=\"centertext\"> Rayons - le foyer du dock / barre des tâches / "
+"zone de notification </strong> <br /> <br> Moksha fournit des rayons pour "
+"loger vos gadgets et lanceurs. C'est également plus pratique que de les "
+"avoir en vrac sur le bureau (la plupart des gadgets peuvent être ajoutés aux "
+"rayons). Ces rayons peuvent être situés n'importe où en bordure du bureau et "
+"vous pouvez avoir plus d'un rayon par bureau, ainsi que différents rayons "
+"sur différents bureaux virtuels. Le nombre de rayons, leur position, taille "
+"et autres options sont accessibles en passant par <i> Menu principal > "
+"Configuration > Rayons</i>. Pour gérer le contenu d'un rayon (c'est-à-dire "
+"ses gadgets), faites un clic droit sur le rayon et choisissez <i> Rayon > "
+"Contenu </i> </i>. <em>Contenu du rayon</em>. <a class=\"normal\" href=\"../"
+"images/shelves.png\"> <img class=\"eightywidth center\" src=\"../images/"
+"shelves.png\" alt=\"(A standard Shelf with many Gadgets)\" /> </a>"
+
+#: html/moksha.html+html.body.div.div.div.p:171-9
+msgid ""
+"<strong> Shading - Alternative to Minimizing </strong> <br /> <br> Want to "
+"get a window out of your way but don't want to minimize it to the taskbar? "
+"Then Shade it! Just double click the title bar of any window to \"roll it up"
+"\", and double click the title bar to \"roll it down\" again."
+msgstr ""
+"<strong>Enroulement - l'alternative à la minimisation </strong> <br /> "
+"<br>Vous ne voulez plus voir une fenêtre sans pour cela la minimiser dans la "
+"barre des tâches ? Alors, éclipsez-la ! Il suffit de double-cliquer sur la "
+"barre de titre de n'importe quelle fenêtre pour « enrouler » celle-ci, et de "
+"double-cliquer sur cette même barre de titre pour la « dérouler »."
+
+#: html/moksha.html+html.body.div.div.div.p:181-11
+msgid ""
+"The screenshot here shows two instances of <b>Terminology</b>, one that is "
+"Shaded and one that is not. Terminology is currently the default terminal in "
+"Bodhi."
+msgstr ""
+"La capture d'écran présentée ici montre deux instances de<b>Terminology</b>. "
+"Une est enroulée, l'autre non. Terminology est le terminal par défaut dans "
+"Bodhi."
+
+#: html/moksha.html+html.body.div.div.div.ul.li:207-9
+msgid ""
+"<strong> Some Handy Shortcuts: </strong> <br /> <br> Shortcuts are referred "
+"to as Bindings in Moksha and can be actioned by e.g. clicking the mouse at "
+"an edge of the screen, pressing a key combination, or pressing a key + mouse-"
+"click. They are categorized as follows:<br /> <ul class=\"smalltext\">"
+msgstr ""
+"<strong>Des raccourcis utiles : </strong> <br /> <br>Les raccourcis peuvent "
+"être activés par exemple par un clic de souris sur un bord de l'écran ou en "
+"appuyant sur une combinaison de touches, ou encore par une pression sur une "
+"touche + clic de souris. Ils sont classés comme suit :<br /> <ul class="
+"\"smalltext\">"
+
+#: html/moksha.html+html.body.div.div.div.ul.li:215-13
+msgid "Edge Bindings (edges of screen)"
+msgstr "Raccourcis des bords (de l'écran)"
+
+#: html/moksha.html+html.body.div.div.div.ul.li:216-13
+msgid "Key Bindings (keyboard)"
+msgstr "Raccourcis souris (clavier)"
+
+#: html/moksha.html+html.body.div.div.div.ul.li:217-13
+msgid "Mouse Bindings (mouse+key)"
+msgstr "Raccourcis souris (souris+touche)"
+
+#: html/moksha.html+html.body.div.div.div.ul.li:218-13
+msgid "ACPI Bindings (events)"
+msgstr "Raccourcis ACPI (évènements)"
+
+#: html/moksha.html+html.body.div.div.div.p:221-11
+msgid ""
+"<strong>Alt+&lt;left-click> (mouse)</strong> <br /> allows you to click "
+"<strong>anywhere</strong> in the window to grab it and reposition <br /><br /"
+"> <strong>&lt;left-click> (mouse)</strong> <br /> on an open portion of the "
+"desktop, opens the Main Menu <br /><br /> <strong>&lt;right-click> (mouse)</"
+"strong> <br /> on an open portion of the desktop, opens the favorites menu "
+"<br /><br /> <strong>Ctrl+Alt+X (key)</strong> <br /> closes a window <br /"
+"><br /> <strong>Ctrl+Alt+&lt;ArrowKey> (key)</strong> <br /> switches to the "
+"Virtual Desktop in the direction selected <br /><br /> <strong>Ctrl+Alt+M "
+"(key)</strong> <br /> brings up the Main Menu <br /><br /> <strong>Shift+F10 "
+"(key)</strong> <br /> maximizes a window vertically <br /><br /> <strong>Alt"
+"+Shift+F10 (key)</strong> <br /> maximizes a window horizontally <br /><br /"
+"> <strong>Alt+Tab (key)</strong> <br /> switches between windows on the same "
+"desktop"
+msgstr ""
+"<strong>Alt+clic gauche</strong> <br /> permet de capturer une fenêtre et de "
+"la repositionner en cliquant <strong>n'importe où</strong>sur celle-ci <br /"
+"><br /> <strong>Clic gauche</strong> <br /> sur un espace dégagé du bureau "
+"ouvre le menu principal <br /><br /> <strong>clic droit</strong> <br /> sur "
+"un espace dégagé du bureau ouvre le menu des favoris <br /><br /> "
+"<strong>Ctrl+Alt+X</strong> <br /> ferme une fenêtre <br /><br /> "
+"<strong>Ctrl+Alt+flèche de direction</strong> <br /> pour passer au bureau "
+"virtuel adjacent dans la direction indiquée <br /><br /> <strong>Ctrl+Alt+M</"
+"strong> <br /> fait apparaître le menu principal <br /><br /> <strong>Maj"
+"+F10</strong> <br /> maximise une fenêtre verticalement <br /><br /> "
+"<strong>Alt+Maj+F10</strong> <br /> maximise une fenêtre horizontalement "
+"<br /><br /> <strong>Alt+Tab</strong> <br /> pour circuler parmi les "
+"fenêtres d'un même bureau"
+
+#: html/moksha.html+html.body.div.div.div.p:263-11
+msgid ""
+"For more information and a comprehensive list of all default keybindings, "
+"see our <a class=\"normal\" href=\"https://www.bodhilinux.com/w/key-bindings-"
+"and-edge-bindings/\">Wiki</a>."
+msgstr ""
+"Pour plus d'informations et une liste complète des raccourcis par défaut, "
+"consultez notre <a class=\"normal\" href=\"https://www.bodhilinux.com/w/key-"
+"bindings-and-edge-bindings/\">Wiki</a>."

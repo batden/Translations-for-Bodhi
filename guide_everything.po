@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quickstart everything\n"
+"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
+"PO-Revision-Date: 2021-05-18 18:27+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: html/everything.html+html.head.title:5-5
+msgid "Bodhi QuickStart - Everything Gadget"
+msgstr "Guide de démarrage - Gadget Omni"
+
+#: html/everything.html+html.body.header.a:-1--1
+msgid "(Bodhi Linux Logo)"
+msgstr "(Bodhi Linux Logo)"
+
+#: html/everything.html+html.body.header.a:-1--1
+msgid "(Moksha Logo)"
+msgstr "(Moksha Logo)"
+
+#: html/everything.html+html.body.header.nav.ul.li:19-11
+msgid ""
+"QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html"
+"\">QuickStart Index"
+msgstr ""
+"Index du Guide de démarrage</a><a class=\"nav\" target=\"_parent\" href="
+"\"index.html\">Index du Guide de démarrage"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:21-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Pour commencer</a> <ul>"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:24-15
+msgid "Connecting to the Internet"
+msgstr "Connexion à Internet"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:25-15
+msgid "Installing Software"
+msgstr "Installer des logiciels"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:28-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
+"Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Pour "
+"commencer</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:31-15
+msgid "Moksha Basics"
+msgstr "Les bases de Moksha"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:32-15
+msgctxt "html/everything.html html.body.header.nav.ul.li.ul.li:32-15"
+msgid "Quick Launcher"
+msgstr "Lanceur rapide"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:35-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Crédits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Encore plus d'infos</a> <ul>"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:38-15
+msgid "Quick FAQ"
+msgstr "FAQ rapide"
+
+#: html/everything.html+html.body.header.nav.ul.li.ul.li:39-15
+msgid "Resources"
+msgstr "Ressources"
+
+#: html/everything.html+html.body.header.nav.ul.li:42-11
+msgid ""
+"Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Credits"
+msgstr ""
+"Encore plus d'infos</a><a class=\"nav\" target=\"_parent\" href=\"appendix."
+"html\">Crédits"
+
+#: html/everything.html+html.body.div.div.div.h1:52-11
+msgctxt "html/everything.html html.body.div.div.div.h1:52-11"
+msgid "Quick Launcher"
+msgstr "Lanceur rapide"
+
+#: html/everything.html+html.body.div.div.div.div.p:66-13
+msgid ""
+"<strong>Quick Launcher</strong> is a Moksha module which, as its name "
+"implies, allows you to find and open things on your computer. Want to get to "
+"the Favorite Applications dialog box to set up your Favorites Menu? Then "
+"just type fav into Everything and hit Enter. Want to launch Terminology? "
+"Then enter into the Quick Launcher. This brief guide can only describe the "
+"basic features of the launcher; for more information follow the links on the "
+"Resources page at the end of this QuickStart Guide."
+msgstr ""
+"<strong>Lanceur rapide </strong> est un module Moksha qui, comme son nom "
+"l'indique, vous permet de trouver et d'ouvrir des éléments sur votre "
+"ordinateur. Vous souhaitez paramétrer le menu des Applications favorites ? "
+"Tapez simplement « fav » dans Omni et appuyez sur Entrée. Vous voulez lancer "
+"Terminology ? Entrez « term ». Cette présentation succinte n'envisage que "
+"les fonctionnalités de base du lanceur. Pour plus d'informations, explorez "
+"les liens de la page Ressources à la fin du Guide de démarrage rapide."
+
+#: html/everything.html+html.body.div.div.div.div.p:67-13
+msgid ""
+"You can open the Quick Launcher by clicking its gadget on the shelf, or by "
+"pressing the key bindings <i>Alt+Esc</i> or <i>Ctrl+Alt+Space</i>, or from "
+"<i>Main Menu > Quick Launcher</i>. It will close automatically after "
+"performing the requested action, otherwise close it by pressing Esc or "
+"clicking outside its window."
+msgstr ""
+"On peut accéder au Lanceur rapide (Omni) en cliquant sur son gadget depuis "
+"le rayon, ou bien en pressant les touches <i>Alt+Échap</i> ou <i>Ctrl+Alt"
+"+Espace</i>, ou encore depuis le <i>Menu principal > Lanceur rapide</i>. Il "
+"se ferme automatiquement après avoir effectué l'action demandée, sinon "
+"fermez-le en appuyant sur Échap ou bien en cliquant en dehors de sa fenêtre."

@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quickstart index\n"
+"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
+"PO-Revision-Date: 2021-05-18 19:38+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: html/index.html+html.head.title:5-5
+msgid "Bodhi QuickStart"
+msgstr "Guide de démarrage Bodhi"
+
+#: html/index.html+html.body.header.a:-1--1
+msgid "(Bodhi Linux Logo)"
+msgstr "(Bodhi Linux Logo)"
+
+#: html/index.html+html.body.header.a:-1--1
+msgid "(Moksha Logo)"
+msgstr "(Moksha Logo)"
+
+#: html/index.html+html.body.header.nav.ul.li:19-11
+msgid ""
+"QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html"
+"\">QuickStart Index"
+msgstr ""
+"Index du Guide de démarrage</a><a class=\"nav\" target=\"_parent\" href="
+"\"index.html\">Index du Guide de démarrage"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:21-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Pour commencer</a> <ul>"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:24-15
+msgctxt "html/index.html html.body.header.nav.ul.li.ul.li:24-15"
+msgid "Connecting to the Internet"
+msgstr "Connexion à Internet"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:25-15
+msgctxt "html/index.html html.body.header.nav.ul.li.ul.li:25-15"
+msgid "Installing Software"
+msgstr "Installer des logiciels"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:28-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
+"Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Pour "
+"commencer</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:31-15
+msgctxt "html/index.html html.body.header.nav.ul.li.ul.li:31-15"
+msgid "Moksha Basics"
+msgstr "Les bases de Moksha"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:32-15
+msgctxt "html/index.html html.body.header.nav.ul.li.ul.li:32-15"
+msgid "Quick Launcher"
+msgstr "Lanceur rapide"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:35-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Crédits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Encore plus d'infos</a> <ul>"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:38-15
+msgctxt "html/index.html html.body.header.nav.ul.li.ul.li:38-15"
+msgid "Quick FAQ"
+msgstr "FAQ rapide"
+
+#: html/index.html+html.body.header.nav.ul.li.ul.li:39-15
+msgctxt "html/index.html html.body.header.nav.ul.li.ul.li:39-15"
+msgid "Resources"
+msgstr "Ressources"
+
+#: html/index.html+html.body.header.nav.ul.li:42-11
+msgid ""
+"Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Credits"
+msgstr ""
+"Encore plus d'infos</a><a class=\"nav\" target=\"_parent\" href=\"appendix."
+"html\">Crédits"
+
+#: html/index.html+html.body.div.div.h4:53-9
+msgid ""
+"Welcome and thank you for trying Bodhi Linux: the minimalistic Enlightened "
+"Linux desktop!"
+msgstr ""
+"Bienvenue et merci d'essayer Bodhi Linux : l'environnement Linux minimaliste "
+"et éclairé !"
+
+#: html/index.html+html.body.div.div.div.h1:58-11
+msgid "Quick Start Guide"
+msgstr "Guide de démarrage"
+
+#: html/index.html+html.body.div.div.div.a.div.h1:69-15
+msgctxt "html/index.html html.body.div.div.div.a.div.h1:69-15"
+msgid "Connecting to the Internet"
+msgstr "Connexion à Internet"
+
+#: html/index.html+html.body.div.div.div.h2:72-11
+msgid "Basics of making an internet connection in Bodhi."
+msgstr "Les bases pour se connecter à Internet dans Bodhi."
+
+#: html/index.html+html.body.div.div.div.a.div.h1:80-15
+msgctxt "html/index.html html.body.div.div.div.a.div.h1:80-15"
+msgid "Installing Software"
+msgstr "Installer des logiciels"
+
+#: html/index.html+html.body.div.div.div.h2:83-11
+msgid "How to install software in Bodhi Linux."
+msgstr "Comment installer des logiciels dans Bodhi Linux."
+
+#: html/index.html+html.body.div.div.div.a.div.h1:91-15
+msgctxt "html/index.html html.body.div.div.div.a.div.h1:91-15"
+msgid "Moksha Basics"
+msgstr "Les bases de Moksha"
+
+#: html/index.html+html.body.div.div.div.h2:94-11
+msgid "Moksha isn't your average desktop. Here are some quick pointers."
+msgstr "Moksha n'est pas un bureau comme les autres. Voici quelques repères."
+
+#: html/index.html+html.body.div.div.div.a.div.h1:102-15
+msgctxt "html/index.html html.body.div.div.div.a.div.h1:102-15"
+msgid "Quick Launcher"
+msgstr "Lanceur rapide"
+
+#: html/index.html+html.body.div.div.div.h2:105-11
+msgid "Find settings, applications, and files with the Quick Launcher!"
+msgstr ""
+"Accéder aux paramètres, applications et fichiers avec le Lanceur rapide !"
+
+#: html/index.html+html.body.div.div.div.a.div.h1:113-15
+msgctxt "html/index.html html.body.div.div.div.a.div.h1:113-15"
+msgid "Quick FAQ"
+msgstr "FAQ rapide"
+
+#: html/index.html+html.body.div.div.div.h2:116-11
+msgid "Answers to a few Frequently Asked Questions."
+msgstr "Réponses à quelques questions fréquemment posées."
+
+#: html/index.html+html.body.div.div.div.a.div.h1:124-15
+msgctxt "html/index.html html.body.div.div.div.a.div.h1:124-15"
+msgid "Resources"
+msgstr "Ressources"
+
+#: html/index.html+html.body.div.div.div.h2:127-11
+msgid "Links through which you can find more information."
+msgstr "Des liens qui vous mènent vers plus informations."
+
+#: html/index.html+html.body.div.div.div.a.div.h1:135-15
+msgid "Credits"
+msgstr "Crédits"
+
+#: html/index.html+html.body.div.div.div.h2:138-11
+msgid "Credits/ Revisions/ License For QuickStart Guide."
+msgstr "Crédits / Révisions / Licence pour le Guide de démarrage."
