@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Link
+Name=Wincontrol
+Name[cs]=Ovládání okna
+Name[pt]=Controlo de janelas
+Name[sk]=Ovládanie okna
+Icon=e-module-wincontrol
+X-Enlightenment-ModuleType=utils
+Comment=Gadget for controlling window actions.
+Comment[cs]=Umožňuje ovládání akcí okna.
+Comment[fr]=Permet certaines actions sur la fenêtre.
+Comment[pt]=Permite controlar as ações de janela.
+Comment[sk]=Umožňuje ovládanie okenných akcií.
