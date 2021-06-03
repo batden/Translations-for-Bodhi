@@ -1,0 +1,86 @@
+# French translation for Spell-checker.
+# This file is put in the public domain.
+# similar <similar@orange.fr>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: spell-checker\n"
+"Report-Msgid-Bugs-To: ylee@bodhilinux.com\n"
+"POT-Creation-Date: 2019-04-14 18:02+0200\n"
+"PO-Revision-Date: 2021-06-03 08:16+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: src/e_mod_main.c:333 src/e_mod_main.c:402
+msgid "Dictionary"
+msgstr "Dictionnaire"
+
+#: src/e_mod_main.c:358
+msgid "Select"
+msgstr "Choisir"
+
+#: src/e_mod_main.c:416
+msgid "General"
+msgstr "Paramètres"
+
+#: src/e_mod_main.c:421
+msgid "Dictionary engines"
+msgstr "Moteurs"
+
+#: src/e_mod_main.c:424
+msgid "Stardict (default)"
+msgstr "Stardict (par défaut)"
+
+#: src/e_mod_main.c:427
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: src/e_mod_main.c:431
+msgid "Custom engine"
+msgstr "Moteur préféré"
+
+#: src/e_mod_main.c:437
+msgid "Engine command"
+msgstr "Commande du moteur"
+
+#: src/e_mod_main.c:535
+msgid "Launcher"
+msgstr "Lanceur"
+
+#: src/e_mod_main.c:537
+msgid "Launcher Plugin"
+msgstr "Greffon Omni"
+
+#: src/e_mod_main.c:537
+msgid "Launcher Dictionary"
+msgstr "Dictionnaire"
+
+#: src/e_mod_main.c:556
+msgid "Everything Dictionary"
+msgstr "Dictionnaire Omni"
+
+#~ msgid "Spell Checker"
+#~ msgstr "Correcteur orthographique"
+
+#~ msgid "Spell checker"
+#~ msgstr "Correcteur orthographique"
+
+#~ msgid "Aspell"
+#~ msgstr "Aspell"
+
+#~ msgid "Hunspell"
+#~ msgstr "Hunspell"
+
+#~ msgid "Custom Command"
+#~ msgstr "Commande personnalisée"
+
+#~ msgid "Language"
+#~ msgstr "Langue"
+
+#~ msgid "Everything Aspell"
+#~ msgstr "Aspell pour Omni"
