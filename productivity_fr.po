@@ -1,0 +1,84 @@
+# French translation for Productivity.
+# This file is put in the public domain.
+# similar <similar@orange.fr>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: productivity\n"
+"Report-Msgid-Bugs-To: ylee@bodhilinux.com\n"
+"POT-Creation-Date: 2020-12-22 07:20-0500\n"
+"PO-Revision-Date: 2021-06-04 16:48+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.0\n"
+
+#: src/e_mod_config.c:34
+msgid "Productivity Settings"
+msgstr "Paramètres de Productivité"
+
+#: src/e_mod_config_schedule.c:30
+msgid "Satisfy urgent windows instantly"
+msgstr "Honorer les requêtes des fenêtres urgentes"
+
+#: src/e_mod_config_schedule.c:39
+msgid "Break Time"
+msgstr "Durée de la pause"
+
+#: src/e_mod_config_schedule.c:42 src/e_mod_config_schedule.c:49
+#, c-format
+msgid "%1.0f Minutes"
+msgstr "%1.0f minutes"
+
+#: src/e_mod_config_schedule.c:46
+msgid "Time to Work before Break"
+msgstr "Durée du travail avant la pause"
+
+#: src/e_mod_config_schedule.c:55
+msgid "Start Working"
+msgstr "Commencer à travailler"
+
+#: src/e_mod_config_schedule.c:59
+msgid "Stop Working"
+msgstr "Arrêter de travailler"
+
+#: src/e_mod_config_schedule.c:65
+msgid "Schedule"
+msgstr "Minutage"
+
+#: src/e_mod_config_schedule.c:183
+#, c-format
+msgid "%1.0f Minutes of Break per every %1.0f Minutes of Work"
+msgstr "%1.0f min de pause toutes les %1.0f min de travail"
+
+#: src/e_mod_config_worktools.c:88
+msgid "Add"
+msgstr "Ajouter"
+
+#: src/e_mod_config_worktools.c:93
+msgid "Remove"
+msgstr "Supprimer"
+
+#: src/e_mod_config_worktools.c:97
+msgid "Work Tools"
+msgstr "Outils"
+
+#: src/e_mod_main.c:80
+msgid "Extensions"
+msgstr "Extensions"
+
+#: src/e_mod_main.c:83 src/e_mod_main.c:118 src/e_mod_main.c:140
+#: src/e_mod_main.c:309 src/e_mod_main.c:483
+msgid "Productivity"
+msgstr "Productivité"
+
+#: src/e_mod_main.c:420
+msgid "Settings"
+msgstr "Configuration"
+
+#~ msgid "Productivity Configuration Updated"
+#~ msgstr "La configuration de Productivité est à jour"

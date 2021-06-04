@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Link
+Name=Productivity
+Name[ru]=Продуктивность
+Name[de]=Productivityett
+Name[eo]=Productivityeto
+Name[el]=Productivity
+Name[fr]=Productivité
+Icon=e-module-productivity
+Comment=This module helps you to fight against working distractions.
+Comment[fr]=Ce module vous aide à rester concentré(e) sur la tâche en cours.
+Comment[ru]=Этот модуль помогает пользователю меньше отвлекаться от работы.
+X-Enlightenment-ModuleType=utils
