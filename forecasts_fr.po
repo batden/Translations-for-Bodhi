@@ -1,163 +1,157 @@
 # French translation for Forecasts.
 # This file is put in the public domain.
 # batden <batden@orange.fr>, 2009, 2010.
-# similar <similar@orange.fr>, 2020.
+# similar <similar@orange.fr>, 2022.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Forecasts module\n"
+"Project-Id-Version: forecasts\n"
 "Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2020-06-30 15:26+0200\n"
-"PO-Revision-Date: 2020-07-09 08:37+0200\n"
+"POT-Creation-Date: 2016-11-17 21:28+0100\n"
+"PO-Revision-Date: 2022-08-07 14:24+0200\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
-"Language-Team: French"
+"Language-Team: French\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 3.1.1\n"
 
-#: src/e_mod_config.c:46
+#: src/e_mod_config.c:44
 msgid "Forecasts Settings"
 msgstr "Paramétrage des prévisions"
 
-#: src/e_mod_config.c:100
+#: src/e_mod_config.c:98
 msgid "Display Settings"
 msgstr "Paramètres d'affichage"
 
-#: src/e_mod_config.c:101
+#: src/e_mod_config.c:99
 msgid "Poll Time"
-msgstr "Fréquence d'actualisation"
+msgstr "Intervalle d'interrogation"
 
-#: src/e_mod_config.c:103
+#: src/e_mod_config.c:101
 #, c-format
 msgid "%2.0f minutes"
 msgstr "%2.0f minutes"
 
-#: src/e_mod_config.c:107
+#: src/e_mod_config.c:104
 msgid "Forecasts days"
-msgstr "Prévisions sur"
+msgstr "Jours de prévisions"
+
+#: src/e_mod_config.c:106
+#, c-format
+msgid "%2.0f"
+msgstr "%2.0f"
 
 #: src/e_mod_config.c:109
-#, c-format
-msgid "%2.0f days"
-msgstr "%2.0f jours"
-
-#: src/e_mod_config.c:112
 msgid "Show Description"
 msgstr "Afficher la description"
 
-#: src/e_mod_config.c:114
+#: src/e_mod_config.c:111
 msgid "Popup on mouse over"
-msgstr "Pop-up au survol de la souris"
+msgstr "Montrer le pop-up au survol"
 
-#: src/e_mod_config.c:118
+#: src/e_mod_config.c:115
 msgid "Unit Settings"
 msgstr "Système de mesure"
 
-#: src/e_mod_config.c:120
+#: src/e_mod_config.c:117
 msgid "Metric"
 msgstr "Métrique"
 
-#: src/e_mod_config.c:122
+#: src/e_mod_config.c:119
 msgid "English"
 msgstr "Anglais"
 
-#: src/e_mod_config.c:126
-msgid "Weather location"
-msgstr "Emplacement"
+#: src/e_mod_config.c:124
+msgid "GeoPlanet WOEID (Where on Earth Identifier)"
+msgstr "GeoPlanet WOEID (Where on Earth Identifier)"
 
-#: src/e_mod_config.c:128
-msgid "City name (empty = local) "
-msgstr "Nom de la ville (vide = local) "
+#: src/e_mod_config.c:127
+msgid "Code"
+msgstr "Code"
 
-#: src/e_mod_config.c:134
-msgid "Custom location label "
-msgstr "Étiquette d'emplacement personnalisée "
+#: src/e_mod_config.c:129
+msgid "City name"
+msgstr "Nom de la ville"
 
-#: src/e_mod_config.c:142
-msgid "Language support"
-msgstr "Support linguistique"
+#: src/e_mod_config.c:132
+msgid "Forecasts WOEID Code or city name: "
+msgstr "Code WOEID ou nom de la ville : "
 
-#: src/e_mod_config.c:144
-msgid "Language code (e.g. sk)    "
-msgstr "Code langue (p. ex. sk)    "
+#: src/e_mod_config.c:137
+msgid "To find the code, go to:"
+msgstr "Pour trouver le code, visitez :"
 
-#: src/e_mod_main.c:270
+#: src/e_mod_main.c:260
 msgid "Forecasts"
 msgstr "Prévisions"
 
-#: src/e_mod_main.c:312
+#: src/e_mod_main.c:302
 msgid "Settings"
 msgstr "Configuration"
 
-#: src/e_mod_main.c:1212
+#: src/e_mod_main.c:1158
 #, c-format
 msgid "%s: Current Conditions"
 msgstr "%s : conditions actuelles"
 
-#: src/e_mod_main.c:1226
-msgid "Feels Like:"
-msgstr "Temp. ressentie :"
+#: src/e_mod_main.c:1173
+msgid "Wind Chill"
+msgstr "Température ressentie"
 
-#: src/e_mod_main.c:1232
-msgid "Wind Chill:"
-msgstr "Refroidissement éolien :"
+#: src/e_mod_main.c:1179
+msgid "Wind Speed"
+msgstr "Vitesse du vent"
 
-#: src/e_mod_main.c:1238
-msgid "Wind Speed:"
-msgstr "Vitesse du vent :"
+#: src/e_mod_main.c:1185
+msgid "Humidity"
+msgstr "Humidité"
 
-#: src/e_mod_main.c:1244
-msgid "Humidity:"
-msgstr "Humidité :"
+#: src/e_mod_main.c:1191
+msgid "Visibility"
+msgstr "Visibilité"
 
-#: src/e_mod_main.c:1250
-msgid "Precipitation:"
-msgstr "Précipitations :"
+#: src/e_mod_main.c:1197
+msgid "Pressure"
+msgstr "Pression"
 
-#: src/e_mod_main.c:1256
-msgid "Visibility:"
-msgstr "Visibilité :"
+#: src/e_mod_main.c:1204
+msgid "Rising"
+msgstr "En hausse"
 
-#: src/e_mod_main.c:1262
-msgid "Pressure:"
-msgstr "Pression :"
+#: src/e_mod_main.c:1206
+msgid "Falling"
+msgstr "En baisse"
 
-#: src/e_mod_main.c:1271
-msgid "Sunrise / Sunset: "
-msgstr "Lever / Coucher : "
+#: src/e_mod_main.c:1208
+msgid "Steady"
+msgstr "Stable"
 
-#: src/e_mod_main.c:1289
+#: src/e_mod_main.c:1212
+msgid "Sunrise / Sunset"
+msgstr "Lever / Coucher"
+
+#: src/e_mod_main.c:1230
 msgid "Today"
 msgstr "Aujourd'hui"
 
-#: src/e_mod_main.c:1291
+#: src/e_mod_main.c:1232
 msgid "Tomorrow"
 msgstr "Demain"
 
-#: src/e_mod_main.c:1299
+#: src/e_mod_main.c:1240
 msgid "High"
-msgstr "Maximale"
+msgstr "Maximum"
 
-#: src/e_mod_main.c:1310
+#: src/e_mod_main.c:1249
 msgid "Low"
-msgstr "Minimale"
+msgstr "Minimum"
 
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Pour trouver le code de votre région, visitez :"
-
-#~ msgid "Rising"
-#~ msgstr "En hausse"
-
-#~ msgid "Falling"
-#~ msgstr "En baisse"
-
-#~ msgid "Steady"
-#~ msgstr "Stable"
+#~ msgid "Weather.com Forecasts Code"
+#~ msgstr "Code des prévisions weather.com"
 
 #~ msgid "Forecasts Code/US Zip Code"
 #~ msgstr "Code des prévisions/Code ZIP USA"
