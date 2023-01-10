@@ -18,8 +18,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: moksha\n"
 "Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2023-01-04 17:15+0100\n"
-"PO-Revision-Date: 2023-01-05 07:41+0100\n"
+"POT-Creation-Date: 2023-01-08 14:46+0100\n"
+"PO-Revision-Date: 2023-01-09 21:54+0100\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -1696,7 +1696,8 @@ msgstr "Non pour tout"
 msgid "Yes to all"
 msgstr "Oui pour tout"
 
-#: src/bin/e_fm.c:10523 src/modules/places/e_mod_places.c:632
+#: src/bin/e_fm.c:10523 src/modules/notification/e_mod_main.c:701
+#: src/modules/places/e_mod_places.c:632
 msgid "Warning"
 msgstr "Avertissement"
 
@@ -3453,7 +3454,7 @@ msgstr ""
 "\t\tExemple : -display :1.0\n"
 "\t-fake-xinerama-screen WxH+X+Y\n"
 "\t\t(Pour ajouter un écran xinerama VIRTUEL au lieu d'écrans réels,\n"
-"\t\ten précisant la géométrie; vous pouvez en ajouter autant que\n"
+"\t\ten précisant la géométrie ; vous pouvez en ajouter autant que\n"
 "\t\tvous le désirez; ils remplaceront les écrans xinerama réels, le\n"
 "\t\tcas échéant; on peut se servir de ça pour simuler xinerama)\n"
 "\t\tExemple : -fake-xinerama-screen 800x600+0+0 -fake-xinerama-screen "
@@ -10102,6 +10103,10 @@ msgstr ""
 "De nouveau <b>en ligne</b>.<br>Les modules qui utilisent le réseau "
 "retrouvent leurs fonctions habituelles."
 
+#: src/modules/notification/e_mod_main.c:701
+msgid "Notification expired!"
+msgstr "Notification expirée !"
+
 #: src/modules/notification/e_mod_config.c:50
 msgid "Notification Settings"
 msgstr "Paramètres des notifications"
@@ -10200,11 +10205,11 @@ msgstr "Sélection"
 
 #: src/modules/clipboard/e_mod_config.c:192
 msgid " Use Copy (Ctrl-C)"
-msgstr " Utiliser Copy (Ctrl+C)"
+msgstr " Utiliser tampon presse-papiers"
 
 #: src/modules/clipboard/e_mod_config.c:195
 msgid " Use Primary (Selection)"
-msgstr " Utiliser Primary (sélection)"
+msgstr " Utiliser tampon primaire"
 
 #: src/modules/clipboard/e_mod_config.c:200
 msgid " Synchronize Clipboards"
