@@ -16,3 +16,5 @@ French translations for the Bodhi Linux project :fr:
 **Philippe Jean Guillaumie** (aka batden, similar, dazibao, pourunmondesansgourou): Long-time Enlightenment user, main contributor...
 
 *Sorry folks, we do not accept translation suggestions from non-native French speakers!*
+
+<noscript><a href="https://liberapay.com/batden/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
