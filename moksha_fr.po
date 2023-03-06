@@ -18,8 +18,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: moksha\n"
 "Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2023-02-27 16:27+0100\n"
-"PO-Revision-Date: 2023-02-27 18:31+0100\n"
+"POT-Creation-Date: 2023-03-06 16:07+0100\n"
+"PO-Revision-Date: 2023-03-06 16:57+0100\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -1243,8 +1243,8 @@ msgstr "Sélectionner un exécutable"
 #: src/modules/ibar/e_mod_config.c:118 src/modules/ibar/e_mod_config.c:214
 #: src/modules/quickaccess/e_mod_config.c:277
 #: src/modules/quickaccess/e_mod_config.c:307
-#: src/modules/clipboard/e_mod_main.c:668
-#: src/modules/clipboard/e_mod_main.c:755
+#: src/modules/clipboard/e_mod_main.c:669
+#: src/modules/clipboard/e_mod_main.c:756
 msgid "Delete"
 msgstr "Supprimer"
 
@@ -1696,7 +1696,7 @@ msgstr "Non pour tout"
 msgid "Yes to all"
 msgstr "Oui pour tout"
 
-#: src/bin/e_fm.c:10523 src/modules/notification/e_mod_main.c:701
+#: src/bin/e_fm.c:10523 src/modules/notification/e_mod_main.c:703
 #: src/modules/places/e_mod_places.c:632
 msgid "Warning"
 msgstr "Avertissement"
@@ -2543,9 +2543,9 @@ msgstr "Demande de position"
 #: src/modules/xkbswitch/e_mod_main.c:361
 #: src/modules/xkbswitch/e_mod_main.c:402
 #: src/modules/notification/e_mod_main.c:338
-#: src/modules/notification/e_mod_main.c:450
+#: src/modules/notification/e_mod_main.c:452
 #: src/modules/clipboard/e_mod_main.c:298
-#: src/modules/clipboard/e_mod_main.c:441 src/modules/places/e_mod_main.c:526
+#: src/modules/clipboard/e_mod_main.c:442 src/modules/places/e_mod_main.c:526
 msgid "Settings"
 msgstr "Configuration"
 
@@ -2750,27 +2750,27 @@ msgstr "Aucun module sélectionné."
 msgid "More than one module selected."
 msgstr "Plus d'un module sélectionné."
 
-#: src/bin/e_int_gadcon_config.c:700 src/bin/e_int_gadcon_config.c:758
+#: src/bin/e_int_gadcon_config.c:702 src/bin/e_int_gadcon_config.c:760
 msgid "Remove Gadget"
 msgstr "Supprimer le gadget"
 
-#: src/bin/e_int_gadcon_config.c:705
+#: src/bin/e_int_gadcon_config.c:707
 msgid "Loaded Gadgets"
 msgstr "Gadgets chargés"
 
-#: src/bin/e_int_gadcon_config.c:720 src/bin/e_int_gadcon_config.c:753
+#: src/bin/e_int_gadcon_config.c:722 src/bin/e_int_gadcon_config.c:755
 msgid "Add Gadget"
 msgstr "Ajouter le gadget"
 
-#: src/bin/e_int_gadcon_config.c:725
+#: src/bin/e_int_gadcon_config.c:727
 msgid "Available Gadgets"
 msgstr "Gadgets disponibles"
 
-#: src/bin/e_int_gadcon_config.c:787
+#: src/bin/e_int_gadcon_config.c:789
 msgid "Shelf Contents"
 msgstr "Contenu du rayon"
 
-#: src/bin/e_int_gadcon_config.c:793
+#: src/bin/e_int_gadcon_config.c:795
 msgid "Toolbar Contents"
 msgstr "Contenu de la barre d'outils"
 
@@ -3651,8 +3651,8 @@ msgstr "Que voulez-vous faire de ce module ?<br>"
 
 #: src/bin/e_module.c:606 src/modules/conf_dialogs/e_int_config_profiles.c:339
 #: src/modules/conf_shelves/e_int_config_shelf.c:394
-#: src/modules/ibar/e_mod_config.c:214 src/modules/clipboard/e_mod_main.c:668
-#: src/modules/clipboard/e_mod_main.c:755
+#: src/modules/ibar/e_mod_config.c:214 src/modules/clipboard/e_mod_main.c:669
+#: src/modules/clipboard/e_mod_main.c:756
 msgid "Keep"
 msgstr "Conserver"
 
@@ -3865,7 +3865,7 @@ msgstr "Déconnexion en cours.<br><hilight>Veuillez patienter.</hilight>"
 
 #: src/bin/e_sys.c:595 src/bin/e_sys.c:650
 msgid "Moksha is busy with another request"
-msgstr "Moksha est occupé à traiter une autre requête"
+msgstr "Moksha est occupé à traiter une autre demande"
 
 #: src/bin/e_sys.c:600
 msgid ""
@@ -5759,7 +5759,7 @@ msgid "Vaio"
 msgstr "Vaio"
 
 #: src/modules/conf_keybindings/e_int_config_acpibindings.c:395
-#: src/modules/notification/e_mod_main.c:437
+#: src/modules/notification/e_mod_main.c:439
 #: src/modules/mixer/bin/playbacks_view.c:305
 #: src/modules/mixer/bin/sinks_view.c:263 src/modules/mixer/e_mod_main.c:441
 msgid "Mute"
@@ -6378,7 +6378,7 @@ msgstr "Tampons"
 
 #: src/modules/conf_performance/e_int_config_performance.c:148
 msgid "Number of Edje files to cache"
-msgstr "Nombre de fichiers edj à mettre en tampon"
+msgstr "Nombre de fichiers EDJ à mettre en tampon"
 
 #: src/modules/conf_performance/e_int_config_performance.c:150
 #, c-format
@@ -6387,7 +6387,7 @@ msgstr "%1.0f fichiers"
 
 #: src/modules/conf_performance/e_int_config_performance.c:154
 msgid "Number of Edje collections to cache"
-msgstr "Nombre de collections edj à mettre en tampon"
+msgstr "Nombre de collections EDJ à mettre en tampon"
 
 #: src/modules/conf_performance/e_int_config_performance.c:156
 #, c-format
@@ -7138,8 +7138,8 @@ msgid "Assign"
 msgstr "Assigner"
 
 #: src/modules/conf_theme/e_int_config_theme.c:1426
-#: src/modules/notification/e_mod_main.c:427
-#: src/modules/clipboard/e_mod_main.c:428
+#: src/modules/notification/e_mod_main.c:429
+#: src/modules/clipboard/e_mod_main.c:429
 msgid "Clear"
 msgstr "Supprimer"
 
@@ -7174,7 +7174,7 @@ msgstr "Thème des applications"
 #: src/modules/conf_theme/e_int_config_xsettings.c:515
 #: src/modules/conf_theme/e_int_config_xsettings.c:559
 msgid "Match Moksha theme if possible"
-msgstr "Suivre spécifications du thème actuel de Moksha"
+msgstr "Suivre les spécifications du thème actuel de Moksha"
 
 #: src/modules/conf_theme/e_int_config_xsettings.c:524
 msgid "Enable X Application Settings"
@@ -8466,7 +8466,7 @@ msgstr "Utiliser l'icône du thème"
 
 #: src/modules/fileman/e_int_config_mime_edit.c:153
 msgid "Use Edje File"
-msgstr "Utiliser un fichier edj"
+msgstr "Utiliser un fichier EDJ"
 
 #: src/modules/fileman/e_int_config_mime_edit.c:156
 msgid "Use Image"
@@ -8478,7 +8478,7 @@ msgstr "Utiliser la valeur par défaut"
 
 #: src/modules/fileman/e_int_config_mime_edit.c:299
 msgid "Select an Edje file"
-msgstr "Choisir un fichier edj"
+msgstr "Choisir un fichier EDJ"
 
 #: src/modules/fileman/e_int_config_mime_edit.c:301
 msgid "Select an image"
@@ -9599,35 +9599,35 @@ msgstr ""
 msgid "quick access name/identifier"
 msgstr "nom / identifiant de l'accès rapide"
 
-#: src/modules/systray/e_mod_main.c:536 src/modules/systray/e_mod_main.c:944
+#: src/modules/systray/e_mod_main.c:535 src/modules/systray/e_mod_main.c:951
 msgid "Systray Error"
 msgstr "Erreur : Zone de notification"
 
-#: src/modules/systray/e_mod_main.c:537
+#: src/modules/systray/e_mod_main.c:536
 msgid "Systray cannot set its background invisible to match its shelf."
 msgstr ""
 "Zone de notification ne peut rendre son arrière-plan invisible pour "
 "correspondre à son rayon."
 
-#: src/modules/systray/e_mod_main.c:945
+#: src/modules/systray/e_mod_main.c:942 src/modules/systray/e_mod_main.c:1168
+msgid "Another systray exists"
+msgstr "Il y a déjà une zone de notification"
+
+#: src/modules/systray/e_mod_main.c:943 src/modules/systray/e_mod_main.c:1169
+msgid "There can be only one systray gadget and another one already exists."
+msgstr ""
+"Il y a déjà une zone de notification active et seule une instance de ce "
+"gadget est autorisée."
+
+#: src/modules/systray/e_mod_main.c:952
 msgid "Systray cannot work in a shelf that is set to below everything."
 msgstr ""
 "Zone de notification ne peut fonctionner dans un rayon configuré en dessous "
 "de tout."
 
-#: src/modules/systray/e_mod_main.c:1140
+#: src/modules/systray/e_mod_main.c:1147
 msgid "Systray"
 msgstr "Zone de notification"
-
-#: src/modules/systray/e_mod_main.c:1163
-msgid "Another systray exists"
-msgstr "Il y a déjà une zone de notification"
-
-#: src/modules/systray/e_mod_main.c:1164
-msgid "There can be only one systray gadget and another one already exists."
-msgstr ""
-"Il y a déjà une zone de notification active et seule une instance de ce "
-"gadget est autorisée."
 
 #: src/modules/shot/e_mod_main.c:85 src/modules/shot/e_mod_main.c:1218
 msgid "Screenshot"
@@ -10044,6 +10044,7 @@ msgstr "Variante"
 
 #: src/modules/notification/e_mod_main.c:78
 #: src/modules/notification/e_mod_main.c:273
+#: src/modules/notification/e_mod_main.c:369
 msgid "Notification"
 msgstr "Notification"
 
@@ -10063,32 +10064,32 @@ msgstr ""
 "Assurez-vous qu'aucun autre module ne fait office de serveur et que D-Bus "
 "est correctement installé et fonctionne."
 
-#: src/modules/notification/e_mod_main.c:419
-#: src/modules/clipboard/e_mod_main.c:410
+#: src/modules/notification/e_mod_main.c:421
+#: src/modules/clipboard/e_mod_main.c:411
 msgid "Empty"
 msgstr "Vide"
 
-#: src/modules/notification/e_mod_main.c:615
+#: src/modules/notification/e_mod_main.c:617
 msgid "Enter Presentation Mode"
 msgstr "Entrée en mode présentation"
 
-#: src/modules/notification/e_mod_main.c:616
+#: src/modules/notification/e_mod_main.c:618
 msgid "Moksha is in <b>presentation</b> mode."
 msgstr "Moksha est en mode <b>présentation</b>."
 
-#: src/modules/notification/e_mod_main.c:620
+#: src/modules/notification/e_mod_main.c:622
 msgid "Exited Presentation Mode"
 msgstr "Sortie du mode présentation"
 
-#: src/modules/notification/e_mod_main.c:621
+#: src/modules/notification/e_mod_main.c:623
 msgid "Presentation mode is over."
 msgstr "Le mode présentation est terminé."
 
-#: src/modules/notification/e_mod_main.c:635
+#: src/modules/notification/e_mod_main.c:637
 msgid "Enter Offline Mode"
 msgstr "Entrée en mode hors-ligne"
 
-#: src/modules/notification/e_mod_main.c:636
+#: src/modules/notification/e_mod_main.c:638
 msgid ""
 "Moksha is in <b>offline</b> mode.<br>During offline mode, modules that use "
 "network will stop polling remote services."
@@ -10096,11 +10097,11 @@ msgstr ""
 "Moksha est en mode <b>hors-ligne</b>.<br>Dans ce mode, les modules qui "
 "utilisent le réseau n'interrogent plus les services distants."
 
-#: src/modules/notification/e_mod_main.c:642
+#: src/modules/notification/e_mod_main.c:644
 msgid "Exited Offline Mode"
 msgstr "Sortie du mode hors-ligne"
 
-#: src/modules/notification/e_mod_main.c:643
+#: src/modules/notification/e_mod_main.c:645
 msgid ""
 "Now in <b>online</b> mode.<br>Now modules that use network will resume "
 "regular tasks."
@@ -10108,7 +10109,7 @@ msgstr ""
 "De nouveau <b>en ligne</b>.<br>Les modules qui utilisent le réseau "
 "retrouvent leurs fonctions habituelles."
 
-#: src/modules/notification/e_mod_main.c:701
+#: src/modules/notification/e_mod_main.c:703
 msgid "Notification expired!"
 msgstr "Notification expirée !"
 
@@ -10147,7 +10148,7 @@ msgstr "Orientation du pop-up"
 
 #: src/modules/notification/e_mod_config.c:173
 msgid "Ignore replace ID"
-msgstr "Ignorer l'ID de remplacement"
+msgstr "Ne pas remplacer l'ID de notification"
 
 #: src/modules/notification/e_mod_config.c:175
 msgid "Use multiple monitor geometry"
@@ -10210,11 +10211,11 @@ msgstr "Sélection"
 
 #: src/modules/clipboard/e_mod_config.c:192
 msgid " Use Copy (Ctrl-C)"
-msgstr " Utiliser tampon presse-papiers"
+msgstr " Utiliser le tampon du presse-papiers"
 
 #: src/modules/clipboard/e_mod_config.c:195
 msgid " Use Primary (Selection)"
-msgstr " Utiliser tampon primaire"
+msgstr " Utiliser le tampon primaire"
 
 #: src/modules/clipboard/e_mod_config.c:200
 msgid " Synchronize Clipboards"
@@ -10238,9 +10239,10 @@ msgid " Trim Newlines"
 msgstr "  Supprimer les nouvelles lignes"
 
 #: src/modules/clipboard/e_mod_config.c:219
-#: src/modules/clipboard/e_mod_main.c:921
+#: src/modules/clipboard/e_mod_main.c:353
 #: src/modules/clipboard/e_mod_main.c:922
 #: src/modules/clipboard/e_mod_main.c:923
+#: src/modules/clipboard/e_mod_main.c:924
 msgid "Clipboard"
 msgstr "Presse-papiers"
 
@@ -10276,27 +10278,27 @@ msgstr " Éléments dans l'historique"
 msgid "Clipboard Settings"
 msgstr "Paramètres du presse-papiers"
 
-#: src/modules/clipboard/e_mod_main.c:383
+#: src/modules/clipboard/e_mod_main.c:384
 msgid "Lock item"
 msgstr "Verrouiller l'élément"
 
-#: src/modules/clipboard/e_mod_main.c:394
+#: src/modules/clipboard/e_mod_main.c:395
 msgid "Edit item"
 msgstr "Éditer l'élément"
 
-#: src/modules/clipboard/e_mod_main.c:401
+#: src/modules/clipboard/e_mod_main.c:402
 msgid "Delete item"
 msgstr "Supprimer l'élément"
 
-#: src/modules/clipboard/e_mod_main.c:418
+#: src/modules/clipboard/e_mod_main.c:419
 msgid "Ignore history"
 msgstr "Ignorer l'historique"
 
-#: src/modules/clipboard/e_mod_main.c:663
+#: src/modules/clipboard/e_mod_main.c:664
 msgid "Confirm History Deletion"
 msgstr "Confirmer la suppression de l'historique"
 
-#: src/modules/clipboard/e_mod_main.c:665
+#: src/modules/clipboard/e_mod_main.c:666
 msgid ""
 "You wish to delete the clipboards history.<br><br>Are you sure you want to "
 "delete it?"
@@ -10304,11 +10306,11 @@ msgstr ""
 "Vous avez demandé à supprimer l'historique des presse-papiers.<br><br>Voulez-"
 "vous vraiment le faire ?"
 
-#: src/modules/clipboard/e_mod_main.c:750
+#: src/modules/clipboard/e_mod_main.c:751
 msgid "Confirm Item Deletion"
 msgstr "Confirmer la suppression de l'élément"
 
-#: src/modules/clipboard/e_mod_main.c:752
+#: src/modules/clipboard/e_mod_main.c:753
 msgid ""
 "You wish to delete the current item.<br><br>Are you sure you want to delete "
 "it?"
@@ -10316,11 +10318,11 @@ msgstr ""
 "Vous avez demandé à supprimer l'élément actuel.<br><br>Voulez-vous vraiment "
 "le faire ?"
 
-#: src/modules/clipboard/e_mod_main.c:780
+#: src/modules/clipboard/e_mod_main.c:781
 msgid "Clipboard: Edit Item"
 msgstr "Presse-papiers : édition"
 
-#: src/modules/clipboard/e_mod_main.c:781
+#: src/modules/clipboard/e_mod_main.c:782
 msgid "Edit the item content:"
 msgstr "Éditer le contenu de l'élément :"
 
