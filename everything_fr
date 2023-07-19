@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Guide de prise en main - Gadget Omni</title>
+    <script src="../QuickStart_files/modernizr.js"></script><!--[if lt IE 9]><script src="../QuickStart_files/html5shiv/dist/html5shiv.js"></script><![endif]-->
+    <link href="../QuickStart_files/qs.css" rel="stylesheet" type="text/css" media="screen" />
+    <!--[if IE]>
+    <link href="../QuickStart_files/ie.css" rel="stylesheet" type="text/css" media="screen" />
+    <![endif]-->
+    <link rel="shortcut icon" href="../images/favicon.png" />
+  </head>
+  <body>
+    <header class="gradient">
+      <a class="img"  href="http://www.bodhilinux.com/" target="_blank"><img class="navbodhi" src="../images/bodhileaf.png" alt="(Bodhi Linux Logo)" /></a>
+      <a class="img"  href="http://www.bodhilinux.com/2015/04/28/introducing-the-moksha-desktop/" target="_blank"><img class="nave17" src="../images/mokshalogo.png" alt="(Moksha Logo)" /></a>
+      <nav>
+        <ul id="nav" class="navonlowwidth">
+          <li class="qsindex"><a class="mobile" target="_parent"  href="index.html">Index du Guide de prise en main</a><a class="nav" target="_parent"  href="index.html">Index du Guide de prise en main</a>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="moksha.html">Moksha</a><a class="nav" target="_parent"  href="#">Pour commencer</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="internet.html">Connexion à Internet</a></li>
+              <li><a class="dropdown" target="_parent"  href="software.html">Installation de logiciels</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="getting_started.html">Pour commencer</a><a class="nav" target="_parent"  href="#">Moksha</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="moksha.html">Les bases de Moksha</a></li>
+              <li><a class="dropdown" target="_parent"  href="everything.html">Lanceur rapide</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="appendix.html">Crédits</a><a class="nav" target="_parent"  href="#">Encore plus d'infos</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="quickfaq.html">FAQ succinte</a></li>
+              <li><a class="dropdown" target="_parent"  href="resources.html">Ressources</a></li>
+            </ul>
+          </li>
+          <li><a class="mobile" target="_parent"  href="appendix.html">Encore plus d'infos</a><a class="nav" target="_parent"  href="appendix.html">Crédits</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="body">
+      <!-- Header -->
+      <div class="header">
+        <a class="img" href="index.html"><img src="../images/bodhilinux.png" alt="(Bodhi Linux Logo)" class="bodhiheader floatr imageonlowwidth" /></a>
+        <div class="h1">
+          <h1>Lanceur rapide</h1>
+        </div>
+        <br />
+        <hr />
+      </div>
+      <!-- End of Header -->
+      <!-- Body -->
+      <div class="content">
+        <div class="contentcontainer">
+          <a class="img normalpicture" href="../images/everything1.png">
+          <img src="../images/everything1.png" alt="(Midori being selected from Everything Gadget)" class="thirtysixwidth floatr imageonlowwidth" />
+          </a>
+          <div class="green lefttext fiftywidth clearonlowwidth changeonlowwidth">
+            <p></p>
+            <strong>Lanceur rapide</strong> est un module pour Moksha qui, comme son nom l'indique, vous permet de trouver et d'ouvrir des éléments sur votre ordinateur. Vous souhaitez paramétrer le menu des Applications favorites ? Tapez simplement « fav » dans Omni et appuyez sur Entrée. Vous voulez lancer Terminology ? Entrez « term ». Cette présentation succinte n'envisage que les fonctionnalités de base du lanceur. Pour plus d'informations, explorez les liens de la page Ressources à la fin du Guide de prise en main.
+            <p>On peut accéder au Lanceur rapide (Omni) en cliquant sur son gadget depuis le rayon, ou bien en pressant les touches <i>Alt+Échap</i> ou <i>Ctrl+Alt+Espace</i>, ou encore depuis le <i>Menu principal -> Lanceur rapide</i>. Il se ferme automatiquement après avoir effectué l'action demandée ; si ce n'était pas le cas, fermez-le en appuyant sur Échap ou bien en cliquant en dehors de sa fenêtre.</p>
+          </div>
+          <div class="clear">&nbsp;</div>
+        </div>
+        <hr class="divide" />
+        <!--
+          -->
+        <div class="clear">&nbsp;</div>
+      </div>
+      <!-- End of Body -->
+    </div>
+  </body>
+</html>

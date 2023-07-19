@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Guide de prise en main de Bodhi - Connexion à Internet</title>
+    <script src="../QuickStart_files/modernizr.js"></script><!--[if lt IE 9]><script src="../QuickStart_files/html5shiv/dist/html5shiv.js"></script><![endif]-->
+    <link href="../QuickStart_files/qs.css" rel="stylesheet" type="text/css" media="screen" />
+    <!--[if IE]>
+    <link href="../QuickStart_files/ie.css" rel="stylesheet" type="text/css" media="screen" />
+    <![endif]-->
+    <link rel="shortcut icon" href="../images/favicon.png" />
+  </head>
+  <body>
+    <header class="gradient">
+      <a class="img"  href="http://www.bodhilinux.com/" target="_blank"><img class="navbodhi" src="../images/bodhileaf.png" alt="(Bodhi Linux Logo)" /></a>
+      <a class="img"  href="http://www.bodhilinux.com/2015/04/28/introducing-the-moksha-desktop/" target="_blank"><img class="nave17" src="../images/mokshalogo.png" alt="(Moksha Logo)" /></a>
+      <nav>
+        <ul id="nav" class="navonlowwidth">
+          <li class="qsindex"><a class="mobile" target="_parent"  href="index.html">Index du Guide de prise en main</a><a class="nav" target="_parent"  href="index.html">Index du Guide de prise en main</a>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="moksha.html">Moksha</a><a class="nav" target="_parent"  href="#">Pour commencer</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="internet.html">Connexion à Internet</a></li>
+              <li><a class="dropdown" target="_parent"  href="software.html">Installation de logiciels</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="getting_started.html">Pour commencer</a><a class="nav" target="_parent"  href="#">Moksha</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="moksha.html">Les bases de Moksha</a></li>
+              <li><a class="dropdown" target="_parent"  href="everything.html">Lanceur rapide</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="appendix.html">Crédits</a><a class="nav" target="_parent"  href="#">Encore plus d'infos</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="quickfaq.html">FAQ succinte</a></li>
+              <li><a class="dropdown" target="_parent"  href="resources.html">Ressources</a></li>
+            </ul>
+          </li>
+          <li><a class="mobile" target="_parent"  href="appendix.html">Encore plus d'infos</a><a class="nav" target="_parent"  href="appendix.html">Crédits</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="body">
+      <!-- Header -->
+      <div class="header">
+        <a class="img" href="index.html"><img src="../images/bodhilinux.png" alt="(Bodhi Linux Logo)" class="bodhiheader floatr imageonlowwidth" /></a>
+        <div class="h1">
+          <h1>Connexion à Internet</h1>
+        </div>
+        <br />
+        <hr />
+      </div>
+      <!-- End of Header -->
+      <!-- Body -->
+      <div class="content">
+        <div class="contentcontainer">
+          <div class="green centertext ninetywidth center">
+            <br /><br /> Bodhi facilite la connexion à Internet ou à votre réseau local grâce à l'utilisation de Network Manager (nm-applet).<br /><br /> <span class="normalpicture"><img src="../images/nm-applet.png" alt="(An example of an nm-applet.)" class="tenwidth center tallimageonlowwidth" /></span> <br /> Vous verrez une icône <span class="boldtext italictext">similaire</span> à celle-ci dans le rayon .<br /><br />
+          </div>
+        </div>
+        <hr class="divide" />
+        <div class="contentcontainer">
+        <a class="img normalpicture" href="../images/network-menu.png">
+        <img src="../images/network-menu.png" alt="(Network Menu)" class="twentyfivewidth floatl imageonlowwidth" />
+        </a>
+        <div class="green fiftywidth floatr changeonlowwidth">
+          <p>Il suffit d'un clic gauche sur l'icône. Choisissez ensuite le type de connexion dans la liste. Network Manager est capable de gérer de nombreux types de connexions réseau, notamment Ethernet, haut débit mobile, sans fil, VPN et DSL. La plupart des connexions sont configurées automatiquement ; certaines nécessitent une saisie de la part de l'utilisateur, comme un mot de passe. <br /><br />En quelques instants, la connexion devrait être établie. <br /></p>
+        </div>
+        <br class="clear displaynormal"/>
+      </div>
+      <hr class="divide" />
+        <div class="contentcontainer">
+        <a class="img normalpicture" href="../images/network-edit.png">
+        <img src="../images/network-edit.png" alt="(Editing Network settings)" class="twentyfivewidth floatr imageonlowwidth" />
+                </a>
+        <div class="green clearonlowwidth fiftywidth changeonlowwidth">
+          <p>Les connexions peuvent être modifiées en cliquant sur l'icône du Network Manager, puis sur <strong>Modifier...</strong> pour ouvrir le gestionnaire de paramètres. Remarquez que l'icône change d'apparence une fois qu'une connexion est établie. Une fonctionnalité courante consiste à faire en sorte que la connexion en question se connecte automatiquement dès qu'elle est détectée.</p>
+          </p>
+          <p>Les problèmes de connexion sont parfois difficiles à diagnostiquer, en particulier sur un système sur lequel aucune connexion n'a pu être établie. Si la méthode ci-dessus échoue, le meilleur conseil que nous puissions donner est d'utiliser un système disposant d'une connexion active (ou une connexion filaire si le sans fil n'est pas disponible) et de nous rejoindre sur Discord ou les forums Bodhi. Consultez notre <a class="normal" href="resources.html">page des Ressources.</a></p>
+        </div>
+        <p><br /></p>
+      </div>
+      <!-- End of Body -->
+    </div>
+  </body>
+</html>

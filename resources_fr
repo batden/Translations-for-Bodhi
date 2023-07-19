@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Guide de prise en main de bodhi - Ressources</title>
+    <script src="../QuickStart_files/modernizr.js"></script><!--[if lt IE 9]><script src="../QuickStart_files/html5shiv/dist/html5shiv.js"></script><![endif]-->
+    <link href="../QuickStart_files/qs.css" rel="stylesheet" type="text/css" media="screen" />
+    <!--[if IE]>
+    <link href="../QuickStart_files/ie.css" rel="stylesheet" type="text/css" media="screen" />
+    <![endif]-->
+    <link rel="shortcut icon" href="../images/favicon.png" />
+  </head>
+  <body>
+    <header class="gradient">
+      <a class="img"  href="http://www.bodhilinux.com/" target="_blank"><img class="navbodhi" src="../images/bodhileaf.png" alt="(Bodhi Linux Logo)" /></a>
+      <a class="img"  href="http://www.bodhilinux.com/2015/04/28/introducing-the-moksha-desktop/" target="_blank"><img class="nave17" src="../images/mokshalogo.png" alt="(Moksha Logo)" /></a>
+      <nav>
+        <ul id="nav" class="navonlowwidth">
+          <li class="qsindex"><a class="mobile" target="_parent"  href="index.html">Index du Guide de prise en main</a><a class="nav" target="_parent"  href="index.html">Index du Guide de prise en main</a>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="moksha.html">Moksha</a><a class="nav" target="_parent"  href="#">Pour commencer</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="internet.html">Connexion à Internet</a></li>
+              <li><a class="dropdown" target="_parent"  href="software.html">Installation de logiciels</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="getting_started.html">Pour commencer</a><a class="nav" target="_parent"  href="#">Moksha</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="moksha.html">Les bases de Moksha</a></li>
+              <li><a class="dropdown" target="_parent"  href="everything.html">Lanceur rapide</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="appendix.html">Crédits</a><a class="nav" target="_parent"  href="#">Encore plus d'infos</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="quickfaq.html">FAQ succinte</a></li>
+              <li><a class="dropdown" target="_parent"  href="resources.html">Ressources</a></li>
+            </ul>
+          </li>
+          <li><a class="mobile" target="_parent"  href="appendix.html">Encore plus d'infos</a><a class="nav" target="_parent"  href="appendix.html">Crédits</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="body">
+      <!-- Header -->
+      <div class="header">
+        <a class="img" href="index.html"><img src="../images/bodhilinux.png" alt="(Bodhi Linux Logo)" class="bodhiheader floatr imageonlowwidth" /></a>
+        <div class="h1">
+          <h1>Ressources</h1>
+        </div>
+        <br />
+        <hr />
+      </div>
+      <!-- End of Header -->
+      <!-- Body -->
+      <div class="content">
+        <div class="contentcontainer">
+          <strong>Vous aurez besoin d'un accès à Internet pour accéder à ces ressources. Si vous n'avez pas encore établi de connexion, veuillez consulter la section <a class="normal" href="internet.html">Connexion à Internet</a>.</strong>
+          <br /><br />
+          <div class="toc">
+            <a class="img" href="http://www.bodhilinux.com/">
+              <div class="hundredwidth">
+                <img class="floatl indexonsmallwidth" src="../images/list_leaf.png" alt="(Bodhi Linux Logo)" />
+                <h1 class="indexpage">Site de Bodhi Linux</h1>
+              </div>
+            </a>
+            <h2 class="onindex">
+              Le site officiel de Bodhi Linux.
+            </h2>
+          </div>
+          <div class="toc">
+            <a class="img" href="https://www.bodhilinux.com/w/wiki/">
+              <div class="hundredwidth">
+                <img class="floatl indexonsmallwidth" src="../images/list_leaf.png" alt="(Bodhi Linux Logo)" />
+                <h1 class="indexpage">Wiki de Bodhi</h1>
+              </div>
+            </a>
+            <h2 class="onindex">
+              Documentation par les utilisateurs de Bodhi, pour les utilisateurs de Bodhi.
+            </h2>
+          </div>
+          <div class="toc">
+            <a class="img" href="http://appcenter.bodhilinux.com/">
+              <div class="hundredwidth">
+                <img class="floatl indexonsmallwidth" src="../images/list_leaf.png" alt="(Bodhi Linux Logo)" />
+                <h1 class="indexpage">AppCenter de Bodhi Linux</h1>
+              </div>
+            </a>
+            <h2 class="onindex">
+              Paquets logiciels officiels de Bodhi Linux.
+            </h2>
+          </div>
+          <div class="toc">
+            <a class="img" href="https://bodhilinux.boards.net/">
+              <div class="hundredwidth">
+                <img class="floatl indexonsmallwidth" src="../images/list_leaf.png" alt="(Bodhi Linux Logo)" />
+                <h1 class="indexpage">Forums de Bodhi Linux</h1>
+              </div>
+            </a>
+            <h2 class="onindex">
+              Posez / répondez aux questions et obtenez des informations sur nos forums.
+            </h2>
+          </div>
+          <div class="toc">
+            <a class="img" href="https://discordapp.com/invite/pvB7MSf">
+              <div class="hundredwidth">
+                <img class="floatl indexonsmallwidth" src="../images/list_leaf.png" alt="(Bodhi Linux Logo)" />
+                <h1 class="indexpage">Chat en direct (Discord)</h1>
+              </div>
+            </a>
+            <h2 class="onindex">
+              Posez / répondez aux questions et obtenez des informations sur Discord.
+            </h2>
+          </div>
+        </div>
+      </div>
+      <!-- End of Body -->
+    </div>
+  </body>
+</html>

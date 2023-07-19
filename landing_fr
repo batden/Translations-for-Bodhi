@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Les bases de Bodhi</title>
+    <script src="../QuickStart_files/modernizr.js"></script><!--[if lt IE 9]><script src="../QuickStart_files/html5shiv/dist/html5shiv.js"></script><![endif]-->
+    <link href="../QuickStart_files/qs.css" rel="stylesheet" type="text/css" media="screen" />
+    <!--[if IE]>
+    <link href="../QuickStart_files/ie.css" rel="stylesheet" type="text/css" media="screen" />
+    <![endif]-->
+    <link rel="shortcut icon" href="../images/favicon.png" />
+  </head>
+  <body>
+    <div class="body">
+      <!-- Header -->
+      <div class="headerindex">
+        <a class="img" href="index.html">	<img class="fortywidth center imageonlowwidth" src="../images/bodhilinux.png" alt="(Bodhi Linux Logo)" /></a>
+        <h4 class="boldtext centertext">Bienvenue et merci d'essayer Bodhi Linux : le bureau Linux minimaliste et éclairé !</h4>
+        <br /><br />
+      </div>
+      <!-- End of Header -->
+      <!-- Body -->
+      <div class="content">
+        <div class="contentcontainer">
+          <div class="green ninetywidth center">
+            <p><strong>Bodhi</strong> est une distribution Linux légère qui utilise le gestionnaire de fenêtres Moksha.</p>
+            <p>Notre philosophie consiste à fournir un système minimal et laisser nos utilisateurs libres d'installer les logiciels supplémentaires qu'ils souhaitent.</p>
+            <br>
+          </div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="contentcontainer">
+          <div class="green ninetywidth center">
+            <p>Une connexion Internet fonctionnelle est requise pour mettre à jour votre système et installer des logiciels dans <strong>Bodhi</strong>.</p>
+            <p>Suivez ce lien si vous avez besoin d'aide : <span class="greentext boldtext largelh"><a class="normal" href="internet.html"><strong>Connexion à Internet</strong></a></span>.</p>
+            <br>
+          </div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="contentcontainer">
+          <div class="green ninetywidth center">
+            <p>Les mises à jour du système sont primordiales pour la sécurité.<br><br></p>
+            <p>Nous recommandons d'effectuer ces mises à jour dans un terminal, à l'aide de la commande :<br><br></p>
+            <div class="content">
+              <span class="greentext boldtext largelh"><code>sudo apt update && sudo apt full-upgrade</code></span><br /><br />
+              <br>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="contentcontainer">
+          <div class="green ninetywidth center">
+            <p>Un pare-feu est à considérer pour la sécurité. Bodhi utilise iptables et inclut The Uncomplicated Firewall (ufw). Il n'est pas activé par défaut car tous les utilisateurs n'ont pas les mêmes besoins.<br></p>
+            <p>Pour l'activer, exécutez la commande suivante dans un terminal :<br><br></p>
+            <div class="content">
+              <span class="greentext boldtext largelh"><code>sudo ufw enable</code></span><br /><br />
+            </div>
+            <p>UFW propose un ensemble de paramètres par défaut (profil) convenant à la grande majorité des utilisateurs privés.</p>
+              <br>
+          </div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="contentcontainer">
+          <div class="green ninetywidth center">
+            <p>Pour en savoir plus, consultez notre <a class="normal" href="index.html"><strong>Guide de prise en main</strong></a>, visitez notre <a class="normal" href="https://www.bodhilinux.com/w/wiki/"><strong>Wiki</strong></a>, ou lisez l'un des super livres de <a class="normal" href="https://www.smashwords.com/profile/view/RogerCarter"><strong>Roger Carter</strong></a> à propos de Bodhi.<br><br></p>
+            <p>Besoin d'une aide amicale ?</p>
+            <p>Postez sur notre <a class="normal" href="https://bodhilinux.boards.net/"><strong>Forum</strong></a> ou posez vos questions sur <a class="normal" href="https://discordapp.com/invite/pvB7MSf"><strong>Discord</strong></a>.<br><br></p>
+            <p>Envie de nous offrir une tasse de café ? <a class="normal" href="https://www.bodhilinux.com/donate/"><strong>Envisagez de faire un don.</strong></a></p>
+            <br>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

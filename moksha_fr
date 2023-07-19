@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Guide de prise en main de Bodhi - Les bases de Moksha</title>
+    <script src="../QuickStart_files/modernizr.js"></script><!--[if lt IE 9]><script src="../QuickStart_files/html5shiv/dist/html5shiv.js"></script><![endif]-->
+    <link href="../QuickStart_files/qs.css" rel="stylesheet" type="text/css" media="screen" />
+    <!--[if IE]>
+    <link href="../QuickStart_files/ie.css" rel="stylesheet" type="text/css" media="screen" />
+    <![endif]-->
+    <link rel="shortcut icon" href="../images/favicon.png" />
+  </head>
+  <body>
+    <header class="gradient">
+      <a class="img"  href="http://www.bodhilinux.com/" target="_blank"><img class="navbodhi" src="../images/bodhileaf.png" alt="(Bodhi Linux Logo)" /></a>
+      <a class="img"  href="http://www.bodhilinux.com/2015/04/28/introducing-the-moksha-desktop/" target="_blank"><img class="nave17" src="../images/mokshalogo.png" alt="(Moksha Logo)" /></a>
+      <nav>
+        <ul id="nav" class="navonlowwidth">
+          <li class="qsindex"><a class="mobile" target="_parent"  href="index.html">Index du Guide de prise en main</a><a class="nav" target="_parent"  href="index.html">Index du Guide de prise en main</a>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="moksha.html">Moksha</a><a class="nav" target="_parent"  href="#">Pour commencer</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="internet.html">Connexion à Internet</a></li>
+              <li><a class="dropdown" target="_parent"  href="software.html">Installation de logiciels</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="getting_started.html">Pour commencer</a><a class="nav" target="_parent"  href="#">Moksha</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="moksha.html">Les bases de Moksha</a></li>
+              <li><a class="dropdown" target="_parent"  href="everything.html">Lanceur rapide</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="mobile" target="_parent"  href="appendix.html">Crédits</a><a class="nav" target="_parent"  href="#">Encore plus d'infos</a>
+            <ul>
+              <li><a class="dropdown" target="_parent"  href="quickfaq.html">FAQ rapide</a></li>
+              <li><a class="dropdown" target="_parent"  href="resources.html">Ressources</a></li>
+            </ul>
+          </li>
+          <li><a class="mobile" target="_parent"  href="appendix.html">Encore plus d'infos</a><a class="nav" target="_parent"  href="appendix.html">Crédits</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="body">
+      <!-- Header -->
+      <div class="header">
+        <a class="img" href="index.html"><img src="../images/bodhilinux.png" alt="(Bodhi Linux Logo)" class="bodhiheader floatr imageonlowwidth" /></a>
+        <div class="h1">
+          <h1>Les bases de Moksha</h1>
+        </div>
+        <br />
+        <hr />
+      </div>
+      <!-- End of Header -->
+      <!-- Body -->
+      <br class="onmobile clear" />
+      <div class="contentcontainer">
+        <a class="img normalpicture indexonsmallwidth" href="../images/desktops.png">
+        <img src="../images/desktops.png" alt="(An example of a Places Gadget)" class="thirtythreewidth floatr" />
+        </a>
+        <!--
+          <div class="green sixtywidth clearonlowwidth changeonlowwidth">
+          -->
+        <div class="green sixtywidth clearonlowwidth changeonlowwidth">
+        <strong> Organisez vos tâches avec les bureaux virtuels</strong> <br> <br class="onmobile clear" /> <a class="img normalpicture displaysmall" href="../images/desktops.png"> <img src="../images/desktops.png" alt="(An example of a Places Gadget)" class="imageonlowwidth" /> </a> <br /> Les bureaux virtuels vous permettent de regrouper les applications d'un certain type sur un bureau et celles d'un type différent sur un autre. Vous disposez initialement de quatre bureaux virtuels, mais vous pouvez modifier ce nombre.
+          <p>
+            Le gadget Miniatures des bureaux affiche les vues des bureaux disponibles avec les applications en cours d'exécution dans chacun d'eux.
+          </p>
+          <p>
+            Il y a plusieurs façons de passer de l'un à l'autre :
+          </p>
+          <ul>
+            <li><sub>Dans la miniature des bureaux, cliquez sur la vue du bureau que vous souhaitez atteindre.</sub></li>
+            <li><sub>À l'aide d'un raccourci clavier : Ctrl+Alt+&lt;Flèche de direction>.</sub></li>
+            <li><sub>Choisissez le bureau en passant par <i>Menu principal -> Bureau -> Virtuel</i>.</sub></li>
+          </ul>
+        </div>
+      </div>
+      <hr class="divide" />
+      <div class="contentcontainer">
+        <a class="img normalpicture" href="../images/mainmenu.png">
+        <img src="../images/mainmenu.png" alt="(Main Menu)" class="thirtythreewidth floatl imageonlowwidth" />
+        </a>
+        <div class="green floatr fiftywidth clearonlowwidth changeonlowwidth">
+          <strong> Le bureau en entier est un menu</strong> <br /> <br> Cliquer sur un espace vide du bureau fait apparaître le Menu principal qui permet de lancer des applications, ajuster les paramètres, éteindre le système, etc. C'est la disposition par défaut sur une nouvelle installation de Bodhi. La grande majorité des utilisateurs considèrent que c'est très pratique. Pour les autres, le raccourci souris de l'action « Afficher le menu principal » peut facilement être supprimé ou reconfiguré en passant par : <i>Menu principal -> Configuration -> Tout -> Entrée -> Raccourcis souris</i>, à l'instar de tout autre raccourci.<br /><br />Un clic droit sur un espace vide du bureau affiche le menu des favoris. Comme vous n'aurez aucune application favorite sur une nouvelle installation de Bodhi, le menu des favoris ne s'affichera pas lors d'un clic droit. Il attend avec impatience que vous ajoutiez des applications ! Pour ce faire, allez dans <i>Menu principal -> Configuration -> Tout -> Applis -> Applications favorites</i>.
+        </div>
+      </div>
+      <hr class="divide" />
+      <div class="contentcontainer">
+        <br />
+        <a class="img normalpicture" href="../images/gadgets.png">
+        <img src="../images/gadgets.png" alt="(Gadgets)" class="sixteenwidth floatr tallimageonlowwidth" />
+        </a>
+        <div class="green fiftywidth changeonlowwidth">
+          <strong id="gadget">Beaucoup de gadgets affichent des informations système </strong> <br /> <br> Les gadgets remplissent une grande variété de fonctions. Beaucoup s'intéressent aux informations système telles que la charge de la batterie, la fréquence du processeur ou l'heure. D'autres vous permettent d'interagir avec le système d'une manière ou d'une autre, comme le réglage du volume ou de la luminosité de l'écran. La plupart autorisent des instances multiples, placées à différents endroits, par exemple sur un rayon et sur le bureau. <br /> <br /> Pour ajouter des gadgets au bureau, passez par : <i> Menu principal -> Configuration -> Gadgets</i>
+        </div>
+      </div>
+      <hr class="divide" />
+      <div class="contentcontainer">
+        <a class="img normalpicture" href="../images/modules.png">
+        <img src="../images/modules.png" alt="(Module Settings)" class="thirtywidth floatl imageonlowwidth" /><br />
+        </a>
+        <br /><br /><br />
+        <div class="green fiftywidth floatr clearonlowwidth changeonlowwidth">
+          <strong id="module">Les modules déterminent la disponibilité des gadgets </strong> <br /> <br>Un gadget n'est disponible que si son module est chargé. En bref, un gadget est une instance d'un module. Pour activer ou désactiver des modules, passez par <i>Menu principal -> Configuration -> Modules</i>. Bodhi dispose d'une large sélection de modules installés par défaut. Vous pouvez en installer d'autres encore, en utilisant l' AppCenter et Synaptic.
+        </div>
+      </div>
+      <br /><br />
+      <hr class="divide" />
+      <div class="contentcontainer">
+        <div class="green ninetywidth center">
+          <strong class="centertext"> Rayons - le foyer du dock / barre des tâches / zone de notification </strong> <br /> <br> Moksha fournit des rayons pour y loger vos gadgets et lanceurs. C'est également plus pratique que de les avoir en vrac sur le bureau (la plupart des gadgets peuvent être ajoutés aux rayons). Ces rayons peuvent être situés n'importe où en bordure du bureau et vous pouvez avoir plus d'un rayon par bureau, ainsi que différents rayons sur différents bureaux virtuels. Le nombre de rayons, leur position, taille et autres options sont accessibles en passant par <i> Menu principal -> Configuration -> Rayons</i>. Pour gérer le contenu d'un rayon (c'est-à-dire ses gadgets), faites un clic droit sur le rayon et choisissez <i>Rayon -> Contenu</i>. <a class="normal" href="../images/shelves.png"> <img class="eightywidth center" src="../images/shelves.png" alt="(A standard Shelf with many Gadgets)" /> </a>
+        </div>
+      </div>
+      <hr class="divide" />
+      <div class="contentcontainer">
+        <a class="img normalpicture" href="../images/lx-shading.png">
+        <img src="../images/lx-shading.png" alt="(An Example of Shading)" class="fortywidth floatl changeonlowwidth" />
+        </a>
+        <div class="green fiftywidth floatr clearonlowwidth changeonlowwidth">
+          <strong>Enroulement - l'alternative à la minimisation </strong> <br /> <br>Vous ne voulez plus voir une fenêtre sans pour cela la minimiser dans la barre des tâches ? Alors, éclipsez-la ! Il suffit de double-cliquer sur la barre de titre de n'importe quelle fenêtre pour « enrouler » celle-ci, et de double-cliquer sur cette même barre de titre pour la « dérouler ».
+          <p>La capture d'écran présentée ici montre deux instances de <b>Terminology</b>. Une est enroulée, l'autre non. Terminology est le terminal par défaut dans Bodhi.
+          </p>
+        </div>
+      </div>
+      <div class="contentcontainer">
+        <br />
+        <div class="green eightywidth center changeonlowwidth">
+          <strong>Des raccourcis utiles : </strong> <br /> <br>Les raccourcis peuvent être activés par exemple par un clic de souris sur un bord de l'écran ou en appuyant sur une combinaison de touches, ou encore par une pression sur une touche + clic de souris. Ils sont classés comme suit :<br /> <ul class="smalltext">
+            <li>Raccourcis des bords (de l'écran)</li>
+            <li>Raccourcis clavier (touches)</li>
+            <li>Raccourcis souris (souris+touche)</li>
+            <li>Raccourcis ACPI (évènements)</li>
+          </ul>
+          Vous pouvez configurer vos propres liaisons, mais beaucoup ont déjà été configurées par défaut. Il s'agit notamment des éléments suivants :
+          <p class="centertext smalltext">
+            <strong>Alt+clic gauche</strong> <br /> permet de capturer une fenêtre et de la repositionner en cliquant <strong>n'importe où</strong> sur celle-ci <br /><br /> <strong>Clic gauche</strong> <br /> sur un espace dégagé du bureau ouvre le menu principal <br /><br /> <strong>clic droit</strong> <br /> sur un espace dégagé du bureau ouvre le menu des favoris <br /><br /> <strong>Ctrl+Alt+X</strong> <br /> ferme une fenêtre <br /><br /> <strong>Ctrl+Alt+flèche de direction</strong> <br /> pour passer au bureau virtuel adjacent dans la direction indiquée <br /><br /> <strong>Ctrl+Alt+M</strong> <br /> fait apparaître le menu principal <br /><br /> <strong>Maj+F10</strong> <br /> maximise une fenêtre verticalement <br /><br /> <strong>Alt+Maj+F10</strong> <br /> maximise une fenêtre horizontalement <br /><br /> <strong>Alt+Tab</strong> <br /> pour circuler parmi les fenêtres d'un même bureau
+          </p>
+          <br /><br />
+          <span class="block centertext">
+          Toutes les liaisons peuvent être configurées à l'emplacement :<br />
+          <small><em>Menu principal -> Configuration -> Entrée -> Raccourcis clavier</em></small></span>
+          <br />
+          <p>Pour plus d'informations et une liste complète des raccourcis par défaut, consultez notre <a class="normal" href="https://www.bodhilinux.com/w/key-bindings-and-edge-bindings/">Wiki</a></p>
+        </div>
+      </div>
+      <!-- End of Body -->
+    </div>
+  </body>
+</html>
