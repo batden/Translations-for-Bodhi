@@ -59,7 +59,7 @@
       <!-- Body -->
       <div class="content">
         <div class="contentcontainer ninetywidth center">
-          <p>Dans la plupart des cas, l'installation de logiciels dans Bodhi Linux passe par une connexion Internet active.</strong>.<br /><br />Suivez ce lien si vous avez besoin d'aide : <a class="normal" href="internet.html">Connexion à Internet</a>.
+          <p>Dans la plupart des cas, l'installation de logiciels dans <strong>Bodhi Linux</strong> passe par une connexion Internet active.<br /><br />Suivez ce lien si vous avez besoin d'aide : <a class="normal" href="internet.html">Connexion à Internet</a>.
           </p>
         </div>
         <div class="contentcontainer">
@@ -137,7 +137,7 @@
             <p>
               GDebi est un outil simple pour installer des paquets .deb. Il offre la possibilité d'installer des paquets .deb locaux en se chargeant de la résolution des dépendances.
             </p>
-            <p>GDebi était installé par défaut dans les versions antérieures de <strong>Bodhi</strong>. Si vous souhaitez l'utilisez, cliquez sur le bouton ci-dessous, ou tapez <code>sudo apt install gdebi</code> en ligne de commande.</p>
+            <p>GDebi était installé par défaut dans les versions antérieures de <strong>Bodhi</strong>. Si vous souhaitez l'utiliser, cliquez sur le bouton ci-dessous, ou tapez <code>sudo apt install gdebi</code> en ligne de commande.</p>
             <p>
               <a href="apt:gdebi?refresh=yep"><img class="center" src="../images/installnow.png" alt="Install Now"></a>
             </p>

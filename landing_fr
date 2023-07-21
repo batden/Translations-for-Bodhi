@@ -53,7 +53,7 @@
       <div class="content">
         <div class="contentcontainer">
           <div class="green ninetywidth center">
-            <p>Un pare-feu est à considérer pour la sécurité. Bodhi utilise iptables et inclut The Uncomplicated Firewall (ufw). Il n'est pas activé par défaut car tous les utilisateurs n'ont pas les mêmes besoins.<br></p>
+            <p>Un pare-feu est aussi à considérer pour la sécurité. Bodhi utilise iptables et inclut The Uncomplicated Firewall (ufw). Il n'est pas activé par défaut car tous les utilisateurs n'ont pas les mêmes besoins.<br></p>
             <p>Pour l'activer, exécutez la commande suivante dans un terminal :<br><br></p>
             <div class="content">
               <span class="greentext boldtext largelh"><code>sudo ufw enable</code></span><br /><br />

@@ -39,7 +39,7 @@
               <li><a class="dropdown" target="_parent"  href="resources.html">Ressources</a></li>
             </ul>
           </li>
-          <li><a class="mobile" target="_parent"  href="appendix.html">Encore plus d'infos</a><a class="nav" target="_parent"  href="appendix.html">Crédits</a>
+          <li><a class="mobile" target="_parent"  href="resources.html">Encore plus d'infos</a><a class="nav" target="_parent"  href="appendix.html">Crédits</a>
           </li>
         </ul>
       </nav>

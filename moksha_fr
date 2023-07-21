@@ -75,7 +75,7 @@
           <ul>
             <li><sub>Dans la miniature des bureaux, cliquez sur la vue du bureau que vous souhaitez atteindre.</sub></li>
             <li><sub>À l'aide d'un raccourci clavier : Ctrl+Alt+&lt;Flèche de direction>.</sub></li>
-            <li><sub>Choisissez le bureau en passant par <i>Menu principal -> Bureau -> Virtuel</i>.</sub></li>
+            <li><sub>Choisissez le bureau en passant par <i>Menu principal -> Bureau -> Virtuel (si le module Menu classique est activé).</i></sub></li>
           </ul>
         </div>
       </div>
@@ -105,12 +105,12 @@
         </a>
         <br /><br /><br />
         <div class="green fiftywidth floatr clearonlowwidth changeonlowwidth">
-          <strong id="module">Les modules déterminent la disponibilité des gadgets </strong> <br /> <br>Un gadget n'est disponible que si son module est chargé. En bref, un gadget est une instance d'un module. Pour activer ou désactiver des modules, passez par <i>Menu principal -> Configuration -> Modules</i>. Bodhi dispose d'une large sélection de modules installés par défaut. Vous pouvez en installer d'autres encore, en utilisant l' AppCenter et Synaptic.
+          <strong id="module">Les modules déterminent la disponibilité des gadgets </strong> <br /> <br>Un gadget n'est disponible que si son module est chargé. En bref, un gadget est une instance d'un module. Pour activer ou désactiver des modules, passez par <i>Menu principal -> Configuration -> Modules</i>. Bodhi dispose d'une large sélection de modules installés par défaut. Vous pouvez en installer d'autres encore, en utilisant l' AppCenter et Synaptic, ou le terminal.
         </div>
       </div>
       <br /><br />
       <hr class="divide" />
-      <div class="contentcontainer">
+      <div class="contentcontainer"> <br />
         <div class="green ninetywidth center">
           <strong class="centertext"> Rayons - le foyer du dock / barre des tâches / zone de notification </strong> <br /> <br> Moksha fournit des rayons pour y loger vos gadgets et lanceurs. C'est également plus pratique que de les avoir en vrac sur le bureau (la plupart des gadgets peuvent être ajoutés aux rayons). Ces rayons peuvent être situés n'importe où en bordure du bureau et vous pouvez avoir plus d'un rayon par bureau, ainsi que différents rayons sur différents bureaux virtuels. Le nombre de rayons, leur position, taille et autres options sont accessibles en passant par <i> Menu principal -> Configuration -> Rayons</i>. Pour gérer le contenu d'un rayon (c'est-à-dire ses gadgets), faites un clic droit sur le rayon et choisissez <i>Rayon -> Contenu</i>. <a class="normal" href="../images/shelves.png"> <img class="eightywidth center" src="../images/shelves.png" alt="(A standard Shelf with many Gadgets)" /> </a>
         </div>
@@ -131,18 +131,18 @@
         <div class="green eightywidth center changeonlowwidth">
           <strong>Des raccourcis utiles : </strong> <br /> <br>Les raccourcis peuvent être activés par exemple par un clic de souris sur un bord de l'écran ou en appuyant sur une combinaison de touches, ou encore par une pression sur une touche + clic de souris. Ils sont classés comme suit :<br /> <ul class="smalltext">
             <li>Raccourcis des bords (de l'écran)</li>
-            <li>Raccourcis clavier (touches)</li>
+            <li>Raccourcis clavier (clavier)</li>
             <li>Raccourcis souris (souris+touche)</li>
             <li>Raccourcis ACPI (évènements)</li>
           </ul>
           Vous pouvez configurer vos propres liaisons, mais beaucoup ont déjà été configurées par défaut. Il s'agit notamment des éléments suivants :
           <p class="centertext smalltext">
-            <strong>Alt+clic gauche</strong> <br /> permet de capturer une fenêtre et de la repositionner en cliquant <strong>n'importe où</strong> sur celle-ci <br /><br /> <strong>Clic gauche</strong> <br /> sur un espace dégagé du bureau ouvre le menu principal <br /><br /> <strong>clic droit</strong> <br /> sur un espace dégagé du bureau ouvre le menu des favoris <br /><br /> <strong>Ctrl+Alt+X</strong> <br /> ferme une fenêtre <br /><br /> <strong>Ctrl+Alt+flèche de direction</strong> <br /> pour passer au bureau virtuel adjacent dans la direction indiquée <br /><br /> <strong>Ctrl+Alt+M</strong> <br /> fait apparaître le menu principal <br /><br /> <strong>Maj+F10</strong> <br /> maximise une fenêtre verticalement <br /><br /> <strong>Alt+Maj+F10</strong> <br /> maximise une fenêtre horizontalement <br /><br /> <strong>Alt+Tab</strong> <br /> pour circuler parmi les fenêtres d'un même bureau
+            <strong>Alt+clic gauche (souris)</strong> <br /> permet de capturer une fenêtre et de la repositionner en cliquant <strong>n'importe où</strong> sur celle-ci <br /><br /> <strong>Clic gauche (souris)</strong> <br /> sur un espace dégagé du bureau ouvre le menu principal <br /><br /> <strong>clic droit (souris)</strong> <br /> sur un espace dégagé du bureau ouvre le menu des favoris <br /><br /> <strong>Ctrl+Alt+X (touche)</strong> <br /> ferme une fenêtre <br /><br /> <strong>Ctrl+Alt+flèche de direction (touche)</strong> <br /> pour passer au bureau virtuel adjacent dans la direction indiquée <br /><br /> <strong>Ctrl+Alt+M (touche)</strong> <br /> fait apparaître le menu principal <br /><br /> <strong>Maj+F10 (touche)</strong> <br /> maximise une fenêtre verticalement <br /><br /> <strong>Alt+Maj+F10 (touche)</strong> <br /> maximise une fenêtre horizontalement <br /><br /> <strong>Alt+Tab (touche)</strong> <br /> pour circuler parmi les fenêtres d'un même bureau
           </p>
           <br /><br />
           <span class="block centertext">
           Toutes les liaisons peuvent être configurées à l'emplacement :<br />
-          <small><em>Menu principal -> Configuration -> Entrée -> Raccourcis clavier</em></small></span>
+          <small><em>Menu principal -> Configuration -> Panneau de contrôle -> Entrée -> Raccourcis clavier</em></small></span>
           <br />
           <p>Pour plus d'informations et une liste complète des raccourcis par défaut, consultez notre <a class="normal" href="https://www.bodhilinux.com/w/key-bindings-and-edge-bindings/">Wiki</a></p>
         </div>
