@@ -73,7 +73,7 @@
         <hr class="divide" />
         <div class="contentcontainer eightywidth center green changeonlowwidth">
           <strong class="italictext centertext">C'est quoi Moksha ?</strong>
-          <p>Moksha est un fork d'Enlightenment DR17 maintenu par l'équipe de Bodhi Linux. Moksha se veut léger, tout en offrant un haut niveau de personnalisation.
+          <p>Moksha est un fork (bifurcation) d'Enlightenment DR17 maintenu par l'équipe de Bodhi Linux. Moksha se veut léger, tout en offrant un haut niveau de personnalisation.
           </p>
         </div>
         <hr class="divide" />

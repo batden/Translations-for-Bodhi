@@ -59,7 +59,7 @@
       <div class="content">
         <div class="contentcontainer">
           <div class="green centertext ninetywidth center">
-            <br /><br /> Bodhi facilite la connexion à Internet ou à votre réseau local grâce à l'utilisation de Network Manager (nm-applet).<br /><br /> <span class="normalpicture"><img src="../images/nm-applet.png" alt="(An example of an nm-applet.)" class="tenwidth center tallimageonlowwidth" /></span> <br /> Vous verrez une icône <span class="boldtext italictext">similaire</span> à celle-ci dans le rayon .<br /><br />
+            <br /><br /> Bodhi facilite la connexion à Internet ou à votre réseau local grâce à l'utilisation de Network Manager (nm-applet).<br /><br /> <span class="normalpicture"><img src="../images/nm-applet.png" alt="(An example of an nm-applet.)" class="tenwidth center tallimageonlowwidth" /></span> <br /> Vous verrez une icône <span class="boldtext italictext">similaire</span> à celle-ci dans le rayon.<br /><br />
           </div>
         </div>
         <hr class="divide" />
@@ -80,7 +80,7 @@
         <div class="green clearonlowwidth fiftywidth changeonlowwidth">
           <p>Les connexions peuvent être modifiées en cliquant sur l'icône du Network Manager, puis sur <strong>Modifier...</strong> pour ouvrir le gestionnaire de paramètres. Remarquez que l'icône change d'apparence une fois qu'une connexion est établie. Une fonctionnalité courante consiste à faire en sorte que la connexion en question se connecte automatiquement dès qu'elle est détectée.</p>
           </p>
-          <p>Les problèmes de connexion sont parfois difficiles à diagnostiquer, en particulier sur un système sur lequel aucune connexion n'a pu être établie. Si la méthode ci-dessus échoue, le meilleur conseil que nous puissions donner est d'utiliser un système disposant d'une connexion active (ou une connexion filaire si le sans fil n'est pas disponible) et de nous rejoindre sur Discord ou les forums Bodhi. Consultez notre <a class="normal" href="resources.html">page des Ressources.</a></p>
+          <p>Les problèmes de connexion sont parfois difficiles à diagnostiquer, en particulier sur un système sur lequel aucune connexion n'a pu être établie. Si la méthode ci-dessus échoue, le meilleur conseil que nous puissions donner est d'utiliser un système disposant d'une connexion active (ou une connexion filaire si le sans fil n'est pas disponible) et de nous rejoindre sur Discord ou les forums Bodhi. Consultez notre <a class="normal" href="resources.html">page des Ressources</a>.</p>
         </div>
         <p><br /></p>
       </div>
