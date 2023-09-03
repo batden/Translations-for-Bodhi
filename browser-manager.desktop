@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Web Browser Manager
+Name[fr]=Gestionnaire de navigateurs web
+Comment=Easily install and uninstall web browsers.
+Comment[fr]=Installer et désinstaller facilement des navigateurs web
+GenericName=Browser Manager
+Exec=browser-manager
+Icon=browser-manager
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+
