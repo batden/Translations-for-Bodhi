@@ -1,0 +1,134 @@
+# French translation for StickyNotes.
+# This file is put in the public domain.
+# batden <batden@orange.fr>, 2009, 2010.
+# similar <similar@orange.fr>, 2021, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stickynotes\n"
+"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2024-05-27 21:26+0200\n"
+"PO-Revision-Date: 2024-07-06 07:56+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 3.4.3\n"
+
+#: src/e_mod_config.c:85
+msgid "StickyNotes Module"
+msgstr "Module StickyNotes"
+
+#: src/e_mod_config.c:140
+msgid "General"
+msgstr "Général"
+
+#: src/e_mod_config.c:143
+msgid " Note text in the header"
+msgstr " Texte de la note dans l'en-tête"
+
+#: src/e_mod_config.c:148
+msgid "Header text"
+msgstr "Texte de l'en-tête"
+
+#: src/e_mod_config.c:156
+msgid "Note text"
+msgstr "Texte de la note"
+
+#: src/e_mod_config.c:176
+msgid "HTML tags: see the git repo wiki for more info"
+msgstr "Balises HTML : voir le wiki du dépôt git pour plus d'informations"
+
+#: src/e_mod_config.c:180
+msgid "Click on the space for color changing"
+msgstr "Cliquer ci-dessous pour modifier la couleur"
+
+#: src/e_mod_config.c:193
+msgid "Command section"
+msgstr "Commande"
+
+#: src/e_mod_config.c:195
+msgid "Command to run and show output"
+msgstr "Commande à exécuter avec affichage de la sortie"
+
+#: src/e_mod_config.c:203
+msgid "Refresh interval"
+msgstr "Intervalle d'actualisation"
+
+#: src/e_mod_config.c:206
+#, c-format
+msgid "%2.0f sec"
+msgstr "%2.0f s"
+
+#: src/e_mod_config.c:209
+msgid " x 60 secs"
+msgstr " x 60 s"
+
+#: src/e_mod_config.c:212
+msgid " Notification text on change"
+msgstr " Texte de notification pour l'actualisation"
+
+#: src/e_mod_main.c:105
+msgid "Advanced"
+msgstr "Avancé"
+
+#: src/e_mod_main.c:156
+msgid ""
+"StickyNotes Module Configuration data needed upgrading. Your old "
+"configuration<br> has been wiped and a new set of defaults initialized. "
+"This<br>will happen regularly during development, so don't report a<br>bug. "
+"This simply means the module needs new configuration<br>data by default for "
+"usable functionality that your old<br>configuration simply lacks. This new "
+"set of defaults will fix<br>that by adding it in. You can re-configure "
+"things now to your<br>liking. Sorry for the inconvenience.<br>"
+msgstr ""
+"La configuration du module StickyNotes a dû être mise à jour. Votre "
+"ancienne<br>configuration a été supprimée et de nouveaux paramètres "
+"par<br>défaut sont en place. Cela risque d'arriver en phase "
+"de<br>développement, alors il est inutile de faire un rapport de bogue."
+"<br>Cela signifie simplement que le module a besoin<br>de cette mise à "
+"niveau pour être à nouveau fonctionnel.<br>Vous pouvez maintenant tout "
+"reconfigurer selon votre goût.<br>Désolé pour la gêne occasionnée.<br>"
+
+#: src/e_mod_main.c:176
+msgid ""
+"Your StickyNotes Module configuration is NEWER than the module version. This "
+"is very<br>strange. This should not happen unless you downgraded<br>the "
+"module or copied the configuration from a place where<br>a newer version of "
+"the module was running. This is bad and<br>as a precaution your "
+"configuration has been now restored to<br>defaults. Sorry for the "
+"inconvenience.<br>"
+msgstr ""
+"Votre configuration de StickyNotes est PLUS RÉCENTE que la version "
+"actuelle<br>du module. C'est vraiment étonnant. Cela ne devrait pas se "
+"produire, à moins<br>que vous n'ayez installé une version antérieure ou "
+"copié la configuration du<br>module depuis une machine sur laquelle une "
+"version plus récente était en cours.<br>Ce n'est pas sain et, par mesure de "
+"précaution, les valeurs<br>par défaut du module ont été restaurées."
+"<br>Désolé pour le désagrément.<br>"
+
+#: src/e_mod_main.c:351
+msgid "StickyNotes"
+msgstr "StickyNotes"
+
+#: src/e_mod_main.c:411 src/e_mod_main.c:520
+msgid "Sticky note"
+msgstr "Note collante"
+
+#: src/e_mod_main.c:469
+msgid "StickyNotes Configuration Updated"
+msgstr "Configuration de StickyNotes actualisée"
+
+#: src/e_mod_main.c:554
+msgid "Settings"
+msgstr "Configuration"
+
+#~ msgid "Use Switch 1"
+#~ msgstr "Utiliser Switch 1"
+
+#~ msgid "Configuration"
+#~ msgstr "Configuration"
