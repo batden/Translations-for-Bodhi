@@ -19,8 +19,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: moksha\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-10-20 17:44+0200\n"
-"PO-Revision-Date: 2024-10-21 09:37+0200\n"
+"POT-Creation-Date: 2024-10-27 07:09+0100\n"
+"PO-Revision-Date: 2024-10-27 08:28+0100\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -1736,7 +1736,8 @@ msgstr "Non pour tout"
 msgid "Yes to all"
 msgstr "Oui pour tout"
 
-#: src/bin/e_fm.c:10523 src/modules/notification/e_mod_main.c:713
+#: src/bin/e_fm.c:10523 src/modules/xkbswitch/e_mod_config.c:605
+#: src/modules/notification/e_mod_main.c:713
 #: src/modules/places/e_mod_places.c:649
 msgid "Warning"
 msgstr "Avertissement"
@@ -10013,6 +10014,10 @@ msgstr "Modèle"
 #: src/modules/xkbswitch/e_mod_config.c:561
 msgid "Variant"
 msgstr "Variante"
+
+#: src/modules/xkbswitch/e_mod_config.c:605
+msgid "The limit for setxkbmap command is 4 layouts!"
+msgstr "La commande setxkbmap se limite à 4 agencements de clavier !"
 
 #: src/modules/notification/e_mod_main.c:78
 #: src/modules/notification/e_mod_main.c:278
