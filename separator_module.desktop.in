@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Link
+Name=Separator
+Name[pt]=Separador
+Name[sk]=Oddeľovač
+Icon=e-module-separator
+X-Enlightenment-ModuleType=utils
+Comment=The separator module for Moksha shelf.
+Comment[fr]=Module séparateur pour le rayon de Moksha.
+Comment[pt]=Módulo separador para o painel do Moksha.
+Comment[sk]=Modul oddeľovača pre lištu desktopu Moksha.
