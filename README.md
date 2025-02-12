@@ -6,6 +6,8 @@ French translations for the Bodhi Linux project :fr:
 
 *Please consider starring our repositories or donating with PayPal to show your support.*
 
+*(Donner une étoile ou une contribution via PayPal est un geste très apprécié)*
+
 Merci.
 
 ## The Team
