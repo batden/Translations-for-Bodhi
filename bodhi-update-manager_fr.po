@@ -1,0 +1,603 @@
+# French translations for bodhi-update-manager package.
+# Copyright (C) 2026 Bodhi Linux Team
+# This file is distributed under the same license as the bodhi-update-manager package.
+# similar <similar@orange.fr>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bodhi-update-manager 0.1-3\n"
+"Report-Msgid-Bugs-To: https://github.com/flux-abyss/bodhi-update-manager/"
+"issues\n"
+"POT-Creation-Date: 2026-05-26 03:19-0400\n"
+"PO-Revision-Date: 2026-06-04 10:08+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: Bodhi Team\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: bodhi_update/app.py:121 bodhi_update/dialogs.py:76
+#: data/applications/bodhi-update-manager.in:5
+#: data/applications/bodhi-update-manager-tray.in:5
+msgid "Update Manager"
+msgstr "Gestionnaire de mises à jour"
+
+#: bodhi_update/app.py:191 bodhi_update/app.py:1335
+msgid "Loading cached package information..."
+msgstr "Chargement des informations du paquet en cache..."
+
+#: bodhi_update/app.py:208
+msgid "File"
+msgstr "Fichier"
+
+#: bodhi_update/app.py:211 bodhi_update/app.py:293
+msgid "Refresh"
+msgstr "Actualiser"
+
+#: bodhi_update/app.py:216 bodhi_update/app.py:297
+msgid "Install Selected"
+msgstr "Installer la sélection"
+
+#: bodhi_update/app.py:223 bodhi_update/app.py:289 bodhi_update/app.py:1366
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: bodhi_update/app.py:228 bodhi_update/app.py:285
+msgid "Clear"
+msgstr "Effacer"
+
+#: bodhi_update/app.py:235
+msgid "Quit"
+msgstr "Quitter"
+
+#: bodhi_update/app.py:243
+msgid "Edit"
+msgstr "Modifier"
+
+#: bodhi_update/app.py:246 bodhi_update/app.py:607
+msgid "Preferences"
+msgstr "Préférences"
+
+#: bodhi_update/app.py:254
+msgid "View"
+msgstr "Vue"
+
+#: bodhi_update/app.py:257
+msgid "Show Descriptions"
+msgstr "Afficher les descriptions"
+
+#: bodhi_update/app.py:268 bodhi_update/dialogs.py:258
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: bodhi_update/app.py:272
+msgid "Help"
+msgstr "Aide"
+
+#: bodhi_update/app.py:275 bodhi_update/dialogs.py:84
+msgid "About"
+msgstr "À propos"
+
+#: bodhi_update/app.py:320
+msgid "A system restart is required to complete the update."
+msgstr "Un redémarrage du système est nécessaire pour terminer la mise à jour."
+
+#: bodhi_update/app.py:324
+msgid "Restart Now"
+msgstr "Redémarrer maintenant"
+
+#: bodhi_update/app.py:370
+msgid "Type"
+msgstr "Type"
+
+#: bodhi_update/app.py:383
+msgid "Upgrade"
+msgstr "Mise à niveau"
+
+#: bodhi_update/app.py:396
+msgid "Package"
+msgstr "Paquet"
+
+#: bodhi_update/app.py:406
+msgid "Installed"
+msgstr "Installés"
+
+#: bodhi_update/app.py:411
+msgid "New"
+msgstr "Nouveaux"
+
+#: bodhi_update/app.py:416
+msgid "Size"
+msgstr "Taille"
+
+#: bodhi_update/app.py:421
+msgid "Repository"
+msgstr "Dépôt"
+
+#: bodhi_update/app.py:472 bodhi_update/app.py:479
+msgid "Waiting for authentication..."
+msgstr "En attente d'authentification..."
+
+#: bodhi_update/app.py:485 bodhi_update/app.py:1322
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: bodhi_update/app.py:489
+msgid "Back to Updates"
+msgstr "Retour aux mises à jour"
+
+#: bodhi_update/app.py:553
+msgid "All"
+msgstr "Tout"
+
+#: bodhi_update/app.py:554
+msgid "Security"
+msgstr "Sécurité"
+
+#: bodhi_update/app.py:555
+msgid "Kernel"
+msgstr "Noyau"
+
+#: bodhi_update/app.py:556
+msgid "System"
+msgstr "Système"
+
+#: bodhi_update/app.py:579
+msgid "Help is not available yet."
+msgstr "L'aide n'est pas encore disponible."
+
+#: bodhi_update/app.py:598
+#, python-format
+msgid "Show %(name)s updates"
+msgstr "Afficher les mises à jour pour %(name)s"
+
+#: bodhi_update/app.py:608
+msgid "Show notifications"
+msgstr "Afficher les notifications"
+
+#: bodhi_update/app.py:609
+msgid "Show held/blocked packages"
+msgstr "Afficher les paquets bloqués / retenus"
+
+#: bodhi_update/app.py:610
+msgid "Show welcome screen on startup"
+msgstr "Afficher l'écran de bienvenue au lancement"
+
+#: bodhi_update/app.py:611
+msgid "Cancel"
+msgstr "Annuler"
+
+#: bodhi_update/app.py:612
+msgid "Apply"
+msgstr "Appliquer"
+
+#: bodhi_update/app.py:658
+msgid "Preferences saved."
+msgstr "Préférences enregistrées."
+
+#: bodhi_update/app.py:796
+msgid "Loading package information..."
+msgstr "Chargement des informations sur le paquet..."
+
+#: bodhi_update/app.py:964
+msgid "Unhold package"
+msgstr "Libérer le paquet"
+
+#: bodhi_update/app.py:964
+msgid "Hold package"
+msgstr "Retenir le paquet"
+
+#: bodhi_update/app.py:1053
+msgid "Held package"
+msgstr "Paquet retenu"
+
+#: bodhi_update/app.py:1062
+msgid "Blocked by held package or dependency constraints"
+msgstr "Bloqué par un paquet retenu ou des contraintes de dépendances"
+
+#: bodhi_update/app.py:1068 bodhi_update/app.py:1108
+#: bodhi_update/controller/hold.py:123
+msgid "System package"
+msgstr "Paquet système"
+
+#: bodhi_update/app.py:1089 bodhi_update/controller/hold.py:102
+msgid "N/A"
+msgstr "N/A"
+
+#: bodhi_update/app.py:1144
+msgid "Failed to read cached package information."
+msgstr "Lecture des informations du paquet en cache impossible."
+
+#: bodhi_update/app.py:1165
+msgid "APT backend is not configured."
+msgstr "Le backend de APT n'est pas configuré."
+
+#: bodhi_update/app.py:1170
+#, python-format
+msgid "Installing %(deb_name)s..."
+msgstr "Installation de %(deb_name)s..."
+
+#: bodhi_update/app.py:1175
+msgid "Failed"
+msgstr "Échec"
+
+#: bodhi_update/app.py:1177
+#, python-format
+msgid "Validation failed: %(exc)s"
+msgstr "Échec de validation : %(exc)s"
+
+#: bodhi_update/app.py:1219
+msgid "pkexec is required. Please reboot manually."
+msgstr "L'utilitaire pkexec est requis. Redémarrez manuellement."
+
+#: bodhi_update/app.py:1221
+#, python-format
+msgid "Failed to initiate reboot: %(exc)s"
+msgstr "Échec de l'initialisation du redémarrage : %(exc)s"
+
+#: bodhi_update/app.py:1305
+msgid "No packages selected."
+msgstr "Aucun paquet sélectionné."
+
+#: bodhi_update/app.py:1316
+msgid "Installing selected updates..."
+msgstr "Installation des mises à jour sélectionnées..."
+
+#: bodhi_update/app.py:1322
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: bodhi_update/app.py:1361
+msgid "Copy"
+msgstr "Copier"
+
+#: bodhi_update/dialogs.py:22
+msgid ""
+"Update Manager\n"
+"\n"
+"A lightweight graphical update manager for Debian based distros."
+msgstr ""
+"Gestionnaire de mises à jour\n"
+"\n"
+"Un gestionnaire de mises à jour graphique léger pour les distributions "
+"basées sur Debian."
+
+#: bodhi_update/dialogs.py:28
+msgid ""
+"This program is free software: you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation, either version 3 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program.  If not, see <https://www.gnu.org/licenses/>."
+msgstr ""
+"Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le "
+"modifier\n"
+"selon les termes de la licence GNU General Public License telle que publiée "
+"par\n"
+"la Free Software Foundation, soit la version 3 de la licence, soit\n"
+"(à votre discrétion) toute version ultérieure.\n"
+"\n"
+"Ce programme est distribué dans l'espoir qu'il sera utile,\n"
+"mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de\n"
+"QUALITÉ MARCHANDE ou D'ADÉQUATION À UN USAGE PARTICULIER. Consultez la\n"
+"licence GNU General Public License pour plus de détails.\n"
+"\n"
+"Vous devriez avoir reçu une copie de la licence GNU General Public License\n"
+"avec ce programme. Si ce n'est pas le cas, consultez <https://www.gnu.org/"
+"licenses/>."
+
+#: bodhi_update/dialogs.py:49
+msgid ""
+"Website\n"
+"\n"
+"https://github.com/flux-abyss/bodhi-update-manager"
+msgstr ""
+"Site web\n"
+"\n"
+"    https://github.com/flux-abyss/bodhi-update-manager"
+
+#: bodhi_update/dialogs.py:54
+msgid ""
+"Credits\n"
+"\n"
+"Developers:\n"
+"    Joseph “flux.abyss” Wiley\n"
+"    Robert “ylee” Wiley\n"
+"    Diego “diekrz2” K.\n"
+"\n"
+"Translation:\n"
+"    Hugo Carvalho\n"
+"    Alejandro Díaz\n"
+"    Diego “diekrz2” K.\n"
+"    Indraneel Rajeevan\n"
+"    Štefan Uram"
+msgstr ""
+"Crédits\n"
+"\n"
+" Développeurs :\n"
+"    Joseph « flux.abyss » Wiley\n"
+"    Robert « ylee » Wiley\n"
+"    Diego « diekrz2 » K.\n"
+"\n"
+"Traduction :\n"
+"    Hugo Carvalho\n"
+"    Alejandro Díaz\n"
+"    Diego « diekrz2 » K.\n"
+"    Indraneel Rajeevan\n"
+"    Štefan Uram\n"
+"    Philippe Jean Guillaumie"
+
+#: bodhi_update/dialogs.py:69
+msgid ""
+"Copyright © 2026 Joseph “flux.abyss” Wiley\n"
+"\n"
+msgstr ""
+"Copyright © 2026 Joseph « flux.abyss » Wiley\n"
+"\n"
+
+#: bodhi_update/dialogs.py:77
+msgid "Website"
+msgstr "Site web"
+
+#: bodhi_update/dialogs.py:78
+msgid "Credits"
+msgstr "Crédits"
+
+#: bodhi_update/dialogs.py:79
+msgid "License"
+msgstr "Licence"
+
+#: bodhi_update/dialogs.py:223
+msgid "Backends"
+msgstr "Backends"
+
+#: bodhi_update/dialogs.py:268 bodhi_update/dialogs.py:412
+msgid "OK"
+msgstr "OK"
+
+#: bodhi_update/dialogs.py:272
+msgid "Show this welcome screen on startup"
+msgstr "Afficher cet écran de bienvenue au lancement"
+
+#: bodhi_update/dialogs.py:304
+msgid "Welcome to the Update Manager"
+msgstr "Bienvenue dans le gestionnaire de mises à jour"
+
+#: bodhi_update/dialogs.py:310
+msgid ""
+"This update manager helps you review, select, and install available updates "
+"from supported package sources."
+msgstr ""
+"Ce gestionnaire vous aide à consulter, sélectionner et installer les mises à "
+"jour disponibles provenant des sources de paquets prises en charge."
+
+#: bodhi_update/dialogs.py:321
+msgid "Security and system updates"
+msgstr "Mises à jour système et de sécurité"
+
+#: bodhi_update/dialogs.py:323
+msgid ""
+"Important updates are highlighted so security fixes, kernel updates, and "
+"core system packages are easier to notice."
+msgstr ""
+"Les mises à jour importantes sont mises en évidence afin que les correctifs "
+"de sécurité, les mises à jour du noyau et autres paquets essentiels soient "
+"plus faciles à repérer."
+
+#: bodhi_update/dialogs.py:331
+msgid "Review before installing"
+msgstr "Vérifier avant l'installation"
+
+#: bodhi_update/dialogs.py:333
+msgid ""
+"Updates are shown in a clear list with package names, versions, download "
+"sizes, sources, and optional descriptions."
+msgstr ""
+"Les mises à jour sont présentées de façon claire avec le nom des paquets, "
+"leurs versions, la taille du téléchargement, leurs sources et, le cas "
+"échéant, une description."
+
+#: bodhi_update/dialogs.py:341
+msgid "Multiple package sources"
+msgstr "Sources de paquet multiples"
+
+#: bodhi_update/dialogs.py:343
+msgid ""
+"The update list can include supported backends such as Debian/Ubuntu "
+"packages, Snap packages, and Flatpak packages when they are available."
+msgstr ""
+"La liste des mises à jour peut prendre en charge les paquets Debian / "
+"Ubuntu, les paquets Snap et les paquets Flatpak, lorsqu'ils sont disponibles."
+
+#: bodhi_update/dialogs.py:350
+msgid ""
+"The goal is to provide a flexible update tool that stays out of your way "
+"while still giving you clear control over what gets updated."
+msgstr ""
+"L'objectif est de fournir un outil de mise à jour flexible et peu "
+"encombrant, tout en vous offrant un contrôle clair sur ce qu'il fait."
+
+#: bodhi_update/controller/hold.py:72
+#, python-format
+msgid "%(name)s reload failed. (%(exc)s)"
+msgstr "Échec lors du rechargement de %(name)s. (%(exc)s)"
+
+#: bodhi_update/controller/hold.py:159
+#, python-format
+msgid "Unknown backend: %(backend)s"
+msgstr "Backend inconnu : %(backend)s"
+
+#: bodhi_update/controller/hold.py:165
+#, python-format
+msgid "%(name)s does not support hold/unhold actions."
+msgstr "%(name)s ne prend pas en charge les actions retenir / libérer."
+
+#: bodhi_update/controller/hold.py:171
+msgid "Locking package..."
+msgstr "Verrouillage du paquet..."
+
+#: bodhi_update/controller/hold.py:173
+msgid "Unlocking package..."
+msgstr "Déverrouillage du paquet..."
+
+#: bodhi_update/controller/hold.py:175
+msgid "Waiting for authorization..."
+msgstr "En attente d'authentification..."
+
+#: bodhi_update/controller/hold.py:193
+#, python-format
+msgid "Failed to launch package action: %(exc)s"
+msgstr "Échec lors du lancement de l'action : %(exc)s"
+
+#: bodhi_update/controller/hold.py:206
+msgid "Package action failed (unknown error)"
+msgstr "L'action sur le paquet a échoué (erreur inconnue)"
+
+#: bodhi_update/controller/hold.py:213
+#, python-format
+msgid "%(backend)s package '%(name)s' is now held."
+msgstr "Le paquet %(backend)s « %(name)s » est maintenant retenu."
+
+#: bodhi_update/controller/hold.py:220
+#, python-format
+msgid "%(backend)s package '%(name)s' is no longer held."
+msgstr "Le paquet %(backend)s « %(name)s » est maintenant libéré."
+
+#: bodhi_update/controller/refresh.py:56
+#, python-format
+msgid "%(current_status)s — Warning: %(message)s"
+msgstr "%(current_status)s — Avertissement : %(message)s"
+
+#: bodhi_update/controller/refresh.py:82
+#, python-format
+msgid "%(name)s refresh failed. (%(exc)s)"
+msgstr "L'actualisation de %(name)s a échoué. (%(exc)s)"
+
+#: bodhi_update/controller/refresh.py:120
+#, python-format
+msgid "%(name)s get_updates failed. (%(exc)s)"
+msgstr "L'action get_updates sur %(name)s a échoué. (%(exc)s)"
+
+#: bodhi_update/controller/refresh.py:128
+msgid "Package lists refreshed."
+msgstr "Listes de paquets actualisées."
+
+#: bodhi_update/controller/refresh.py:147
+msgid "Refreshing package lists..."
+msgstr "Actualisation des listes de paquets..."
+
+#: bodhi_update/controller/refresh.py:156
+msgid "Refresh failed"
+msgstr "L'actualisation a échoué"
+
+#: bodhi_update/controller/refresh.py:157
+msgid "Could not refresh package lists."
+msgstr "Impossible d'actualiser la liste de paquets."
+
+#: bodhi_update/status_messages.py:34
+msgid "Restart required."
+msgstr "Redémarrage requis."
+
+#: bodhi_update/status_messages.py:34
+msgid "Ready"
+msgstr "Prêt"
+
+#: bodhi_update/status_messages.py:40
+#, python-format
+msgid "%(message)s  Restart required."
+msgstr "%(message)s  Redémarrage requis."
+
+#: bodhi_update/status_messages.py:55
+msgid "System is up to date. No pending updates in cached package data."
+msgstr ""
+"Le système est à jour. Il n'y a pas de mises à jour en attente dans le cache "
+"des données de paquets."
+
+#: bodhi_update/status_messages.py:57
+msgid "System is up to date."
+msgstr "Le système est à jour."
+
+#: bodhi_update/status_messages.py:61 bodhi_update/status_messages.py:112
+msgid "Unknown"
+msgstr "Inconnu(e)"
+
+#: bodhi_update/status_messages.py:66
+#, python-format
+msgid "%(count)d update available · Download: %(size)s"
+msgid_plural "%(count)d updates available · Download: %(size)s"
+msgstr[0] "%(count)d mise à jour disponible. Téléchargement : %(size)s"
+msgstr[1] "%(count)d mises à jour disponibles. Téléchargement : %(size)s"
+
+#: bodhi_update/status_messages.py:76
+#, python-format
+msgid "%(message)s · Cached data — refresh to check for newer updates"
+msgstr ""
+"%(message)s. Données en cache — actualisez la page pour vérifier s'il existe "
+"des mises à jour plus récentes"
+
+#: bodhi_update/status_messages.py:80
+#, python-format
+msgid "%(message)s (includes %(extras)s)"
+msgstr "%(message)s (inclut %(extras)s)"
+
+#: bodhi_update/status_messages.py:87
+#, python-format
+msgid "%(n)d held/blocked package hidden"
+msgid_plural "%(n)d held/blocked packages hidden"
+msgstr[0] "%(n)d paquet bloqué / retenu masqué"
+msgstr[1] "%(n)d paquets bloqués / maintenus masqués"
+
+#: bodhi_update/status_messages.py:115
+#, python-format
+msgid "%(count)d update selected · Download: %(size)s"
+msgid_plural "%(count)d updates selected · Download: %(size)s"
+msgstr[0] "%(count)d mise à jour sélectionnée. Téléchargement : %(size)s"
+msgstr[1] "%(count)d mises à jour sélectionnées. Téléchargement : %(size)s"
+
+#: data/applications/bodhi-update-manager.in:6
+#: data/applications/bodhi-update-manager-tray.in:7
+msgid "Install system updates and local packages for Bodhi Linux"
+msgstr ""
+"Installation des mises à jour du système et des paquets locaux pour Bodhi "
+"Linux"
+
+#: data/applications/bodhi-update-manager.in:14
+msgid "package;apt;dpkg;install;upgrade;"
+msgstr "package;apt;dpkg;install;upgrade;"
+
+#: data/polkit/org.bodhi.updatemanager.apt.policy.in.h:1
+#: data/polkit/org.bodhi.updatemanager.snap.policy.in.h:1
+msgid "Run the Update Manager privileged helper"
+msgstr "Lancement de l'assistant du gestionnaire de mises à jour"
+
+#: data/polkit/org.bodhi.updatemanager.apt.policy.in.h:2
+msgid "Authentication is required to install or update packages."
+msgstr ""
+"Une authentification est nécessaire pour installer ou mettre à jour des "
+"paquets."
+
+#: data/polkit/org.bodhi.updatemanager.snap.policy.in.h:2
+msgid "Authentication is required to install or update snaps."
+msgstr ""
+"Une authentification est nécessaire pour installer ou mettre à jour des "
+"snaps."
+
+#~ msgid "Installing updates..."
+#~ msgstr "Installation des mises à jour..."
+
+#, fuzzy
+#~ msgid "Loading updates..."
+#~ msgstr "Installation des mises à jour..."
+
+#~ msgid "Version:"
+#~ msgstr "Version :"
