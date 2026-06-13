@@ -19,8 +19,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: moksha\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2026-01-20 18:22+0100\n"
-"PO-Revision-Date: 2026-01-25 12:07+0100\n"
+"POT-Creation-Date: 2026-06-13 07:08+0200\n"
+"PO-Revision-Date: 2026-06-13 09:42+0200\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: src/bin/e_about.c:18
@@ -318,7 +318,7 @@ msgstr "Définir l'état d'enroulement"
 
 #: src/bin/e_actions.c:3254
 msgid "syntax: \"(0|1) (up|down|left|right)\""
-msgstr "syntax: \"(0|1) (up|down|left|right)\""
+msgstr "syntaxe : \"(0|1) (up|down|left|right)\""
 
 #: src/bin/e_actions.c:3258
 msgid "Toggle Borderless State"
@@ -880,8 +880,8 @@ msgstr "Sélectionner"
 #: src/modules/syscon/e_syscon.c:122
 #: src/modules/quickaccess/e_mod_quickaccess.c:319
 #: src/modules/quickaccess/e_mod_quickaccess.c:381
-#: src/modules/shot/e_mod_delay.c:86 src/modules/shot/e_mod_preview.c:120
-#: src/modules/shot/e_mod_share.c:267 src/modules/shot/e_mod_share.c:326
+#: src/modules/shot/e_mod_delay.c:86 src/modules/shot/e_mod_preview.c:140
+#: src/modules/shot/e_mod_share.c:288 src/modules/shot/e_mod_share.c:347
 #: src/modules/xkbswitch/e_mod_config.c:587
 msgid "Cancel"
 msgstr "Annuler"
@@ -1266,7 +1266,7 @@ msgid "Cut"
 msgstr "Couper"
 
 #: src/bin/e_entry.c:514 src/bin/e_fm.c:9123 src/bin/e_fm.c:11650
-#: src/modules/shot/e_mod_preview.c:113
+#: src/modules/shot/e_mod_preview.c:131
 msgid "Copy"
 msgstr "Copier"
 
@@ -2045,7 +2045,7 @@ msgstr "Remplir"
 
 #: src/bin/e_import_config_dialog.c:514
 msgid "Pan"
-msgstr "Pano"
+msgstr "Panorama"
 
 #: src/bin/e_import_config_dialog.c:522
 msgid "File Quality"
@@ -2406,9 +2406,9 @@ msgstr "Statique"
 #: src/modules/conf_keybindings/e_int_config_mousebindings.c:362
 #: src/modules/conf_performance/e_int_config_powermanagement.c:196
 #: src/modules/conf_theme/e_int_config_fonts.c:690
-#: src/modules/conf_theme/e_int_config_transitions.c:199
-#: src/modules/conf_theme/e_int_config_transitions.c:254
-#: src/modules/conf_theme/e_int_config_transitions.c:287
+#: src/modules/conf_theme/e_int_config_transitions.c:200
+#: src/modules/conf_theme/e_int_config_transitions.c:253
+#: src/modules/conf_theme/e_int_config_transitions.c:285
 #: src/modules/conf_window_manipulation/e_int_config_clientlist.c:99
 #: src/modules/conf_window_manipulation/e_int_config_clientlist.c:112
 #: src/modules/conf_window_manipulation/e_int_config_clientlist.c:126
@@ -5414,7 +5414,7 @@ msgid "Signal Bindings Settings"
 msgstr "Paramètres des raccourcis de signaux"
 
 #: src/modules/conf_edgebindings/e_mod_main.c:17
-#: src/modules/conf_interaction/e_mod_main.c:17
+#: src/modules/conf_interaction/e_mod_main.c:156
 #: src/modules/conf_keybindings/e_mod_main.c:42
 #: src/modules/xkbswitch/e_mod_main.c:72
 msgid "Input"
@@ -5484,6 +5484,7 @@ msgid "Idle effects"
 msgstr "Effets quand inactif"
 
 #: src/modules/conf_interaction/e_int_config_mouse.c:323
+#: src/modules/conf_interaction/e_mod_main.c:171
 msgid "Cursor"
 msgstr "Pointeur"
 
@@ -5563,13 +5564,17 @@ msgstr "Défilement à deux doigts"
 msgid "Circular scrolling"
 msgstr "Défilement circulaire"
 
-#: src/modules/conf_interaction/e_mod_main.c:20
+#: src/modules/conf_interaction/e_mod_main.c:159
 msgid "Touch"
 msgstr "Interface tactile"
 
-#: src/modules/conf_interaction/e_mod_main.c:24
+#: src/modules/conf_interaction/e_mod_main.c:163
 msgid "Mouse and Touchpad"
 msgstr "Souris et pavé tactile"
+
+#: src/modules/conf_interaction/e_mod_main.c:171
+msgid "Find Cursor"
+msgstr "Afficher le pointeur"
 
 #: src/modules/conf_intl/e_int_config_imc.c:103
 #: src/modules/conf_intl/e_mod_main.c:28
@@ -6272,7 +6277,7 @@ msgstr "Paramétrage des performances"
 
 #: src/modules/conf_performance/e_int_config_performance.c:107
 msgid "Framerate"
-msgstr "Taux de rafraîchissement"
+msgstr "Taux de rafraichissement"
 
 #: src/modules/conf_performance/e_int_config_performance.c:109
 #, c-format
@@ -7033,24 +7038,24 @@ msgstr "Afficher le texte d'accueil"
 msgid "Transition Settings"
 msgstr "Paramétrage de la transition"
 
-#: src/modules/conf_theme/e_int_config_transitions.c:173
+#: src/modules/conf_theme/e_int_config_transitions.c:174
 msgid "Events"
 msgstr "Événements"
 
-#: src/modules/conf_theme/e_int_config_transitions.c:181
+#: src/modules/conf_theme/e_int_config_transitions.c:182
 #: src/modules/conf_theme/e_mod_main.c:263
 msgid "Startup"
 msgstr "Démarrage"
 
-#: src/modules/conf_theme/e_int_config_transitions.c:182
+#: src/modules/conf_theme/e_int_config_transitions.c:183
 msgid "Desk Change"
 msgstr "Changement de bureau"
 
-#: src/modules/conf_theme/e_int_config_transitions.c:183
+#: src/modules/conf_theme/e_int_config_transitions.c:184
 msgid "Background Change"
 msgstr "Changement de fond d'écran"
 
-#: src/modules/conf_theme/e_int_config_transitions.c:191
+#: src/modules/conf_theme/e_int_config_transitions.c:192
 #: src/modules/conf_theme/e_mod_main.c:257
 msgid "Transitions"
 msgstr "Transitions"
@@ -9573,13 +9578,13 @@ msgstr ""
 msgid "Systray"
 msgstr "Zone de notification"
 
-#: src/modules/shot/e_mod_delay.c:47 src/modules/shot/e_mod_preview.c:74
+#: src/modules/shot/e_mod_delay.c:47 src/modules/shot/e_mod_preview.c:89
 msgid "Select action to take with screenshot"
 msgstr "Choisir l'action à appliquer à la capture"
 
-#: src/modules/shot/e_mod_delay.c:59 src/modules/shot/e_mod_preview.c:117
+#: src/modules/shot/e_mod_delay.c:59 src/modules/shot/e_mod_preview.c:136
 msgid "Delay"
-msgstr "Delai"
+msgstr "Délai"
 
 #: src/modules/shot/e_mod_delay.c:61
 #, c-format
@@ -9702,23 +9707,23 @@ msgstr "Impossible d'initialiser le réseau"
 msgid "Take Screenshot with Delay"
 msgstr "Capture d'écran en différé"
 
-#: src/modules/shot/e_mod_preview.c:93
+#: src/modules/shot/e_mod_preview.c:109
 msgid "Quality"
 msgstr "Qualité"
 
-#: src/modules/shot/e_mod_preview.c:109
+#: src/modules/shot/e_mod_preview.c:125
 msgid "Save"
 msgstr "Enregistrer"
 
-#: src/modules/shot/e_mod_preview.c:111
+#: src/modules/shot/e_mod_preview.c:128
 msgid "Share"
 msgstr "Partager"
 
-#: src/modules/shot/e_mod_save.c:204
+#: src/modules/shot/e_mod_save.c:211
 msgid "Error - No Filemanager"
 msgstr "Erreur : pas de gestionnaire de fichiers"
 
-#: src/modules/shot/e_mod_save.c:205
+#: src/modules/shot/e_mod_save.c:212
 msgid ""
 "No filemanager action and/or module was found.<br>Cannot show the location "
 "of your screenshots."
@@ -9726,52 +9731,52 @@ msgstr ""
 "Aucune action et/ou module de gestion de fichiers n'est disponible."
 "<br>Impossible d'afficher l'emplacement de vos captures."
 
-#: src/modules/shot/e_mod_share.c:149
+#: src/modules/shot/e_mod_share.c:168
 #, c-format
 msgid "Uploaded %i%%"
 msgstr "%i%% téléversés"
 
-#: src/modules/shot/e_mod_share.c:163
+#: src/modules/shot/e_mod_share.c:184
 msgid "Error - Upload Failed"
 msgstr "Erreur : échec du téléversement"
 
-#: src/modules/shot/e_mod_share.c:164
+#: src/modules/shot/e_mod_share.c:185
 #, c-format
 msgid "Upload failed with status code:<ps/>%i"
 msgstr "Le téléversement a échoué avec le code d'état :<ps>%i"
 
-#: src/modules/shot/e_mod_share.c:246
+#: src/modules/shot/e_mod_share.c:267
 msgid "Uploading screenshot"
 msgstr "Téléversement de la capture"
 
-#: src/modules/shot/e_mod_share.c:252
+#: src/modules/shot/e_mod_share.c:273
 msgid "Uploading ..."
 msgstr "Téléversement…"
 
-#: src/modules/shot/e_mod_share.c:257
+#: src/modules/shot/e_mod_share.c:278
 msgid "Screenshot is available at this location:"
 msgstr "La capture est disponible ici :"
 
-#: src/modules/shot/e_mod_share.c:266
+#: src/modules/shot/e_mod_share.c:287
 msgid "Hide"
 msgstr "Masquer"
 
-#: src/modules/shot/e_mod_share.c:315
+#: src/modules/shot/e_mod_share.c:336
 msgid "Confirm Share"
 msgstr "Confirmer le partage"
 
-#: src/modules/shot/e_mod_share.c:317
+#: src/modules/shot/e_mod_share.c:338
 msgid ""
 "Are you sure you want to upload this image<ps/>publically to these services?"
 msgstr ""
 "Voulez-vous vraiment téléverser de façon publique<ps/>cette image vers ces "
 "services ?"
 
-#: src/modules/shot/e_mod_share.c:320
+#: src/modules/shot/e_mod_share.c:341
 msgid "Imgur.com"
 msgstr "Imgur.com"
 
-#: src/modules/shot/e_mod_share.c:323
+#: src/modules/shot/e_mod_share.c:344
 msgid "E.org"
 msgstr "E.org"
 
