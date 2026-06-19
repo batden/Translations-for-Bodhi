@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=nl-ease
+Comment=A tool to easily set the night light
+Comment[fr]=Un outil simple pour définir la couleur de nuit.
+Comment[it]=Uno strumento per impostare facilmente la luce notturna
+Comment[pl]=Narzędzie do łatwego ustawiania światła nocnego
+Exec=nl-ease
+Icon=nl-ease
+Type=Application
+Categories=Utility;

@@ -1,0 +1,42 @@
+# French translation for Nl-Ease.
+# Copyright (C) 2026 diekrz2
+# This file is distributed under the same license as the nl-ease package.
+# similar <similar@orange.fr>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nl-ease 1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/diekrz2/nl-ease/issues\n"
+"POT-Creation-Date: 2026-06-11 11:58+0200\n"
+"PO-Revision-Date: 2026-06-19 07:32+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: src/ui.c:123
+msgid "Enabled"
+msgstr "Activé"
+
+#: src/ui.c:132
+msgid "Temperature"
+msgstr "Température"
+
+#: src/ui.c:140
+msgid "Start time:"
+msgstr "Heure de début :"
+
+#: src/ui.c:153
+msgid "End time:"
+msgstr "Heure de fin :"
+
+#: src/ui.c:175
+msgid "Save Configuration"
+msgstr "Enregistrer la configuration"
+
+#: src/ui.c:182
+msgid "Close and Launch Daemon"
+msgstr "Fermer et lancer le démon"
