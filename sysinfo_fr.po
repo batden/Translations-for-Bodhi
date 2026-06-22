@@ -1,0 +1,234 @@
+# French translation for Sysinfo.
+# Copyright (C) 2026 Bodhi Linux Team
+# This file is distributed under the same license as the sysinfo package.
+# similar <similar@orange.fr>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sysinfo 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-18 16:32+0200\n"
+"PO-Revision-Date: 2026-06-22 17:13+0200\n"
+"Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: src/sysinfo.sh:66
+msgid "Module information"
+msgstr "Informations du module"
+
+#: src/sysinfo.sh:66 src/sysinfo.sh:272
+msgid "Close"
+msgstr "Fermer"
+
+#: src/sysinfo.sh:86
+msgid "Threads"
+msgstr "Threads"
+
+#: src/sysinfo.sh:89
+msgid "CPU Cores"
+msgstr "Cœurs du CPU"
+
+#: src/sysinfo.sh:92
+msgid "Sockets"
+msgstr "Sockets"
+
+#: src/sysinfo.sh:95
+msgid "Threads per core"
+msgstr "Threads par cœur"
+
+#: src/sysinfo.sh:103
+msgid "CPU information"
+msgstr "Informations du CPU"
+
+#: src/sysinfo.sh:104 src/sysinfo.sh:132 src/sysinfo.sh:137
+msgid "Parameter"
+msgstr "Paramètre"
+
+#: src/sysinfo.sh:104 src/sysinfo.sh:132 src/sysinfo.sh:137
+msgid "Value"
+msgstr "Valeur"
+
+#: src/sysinfo.sh:122 src/sysinfo.sh:274
+msgid "GPU"
+msgstr "GPU"
+
+#: src/sysinfo.sh:123
+msgid "Driver"
+msgstr "Pilote"
+
+#: src/sysinfo.sh:124
+msgid "Resolution"
+msgstr "Résolution"
+
+#: src/sysinfo.sh:125
+msgid "Renderer"
+msgstr "Rendu"
+
+#: src/sysinfo.sh:126
+msgid "OpenGL"
+msgstr "OpenGL"
+
+#: src/sysinfo.sh:127
+msgid "Session"
+msgstr "Session"
+
+#: src/sysinfo.sh:130
+msgid "GPU information"
+msgstr "Informations du GPU"
+
+#: src/sysinfo.sh:136
+msgid "Memory usage information"
+msgstr "Utilisation mémoire"
+
+#: src/sysinfo.sh:141
+msgid "Disk space usage"
+msgstr "Utilisation espace disque"
+
+#: src/sysinfo.sh:142 src/sysinfo.sh:149 src/sysinfo.sh:161 src/sysinfo.sh:173
+msgid "Device"
+msgstr "Périphérique"
+
+#: src/sysinfo.sh:142
+msgid "Mountpoint"
+msgstr "Point de montage"
+
+#: src/sysinfo.sh:142
+msgid "Type"
+msgstr "Type"
+
+#: src/sysinfo.sh:143
+msgid "Total:"
+msgstr "Total :"
+
+#: src/sysinfo.sh:143
+msgid "Free:"
+msgstr "Libre :"
+
+#: src/sysinfo.sh:143
+msgid "Usage:"
+msgstr "Usage :"
+
+#: src/sysinfo.sh:147
+msgid "PCI bus devices"
+msgstr "Périphériques bus PCI"
+
+#: src/sysinfo.sh:148
+msgid "ID"
+msgstr "ID"
+
+#: src/sysinfo.sh:148
+msgid "Class"
+msgstr "Classe"
+
+#: src/sysinfo.sh:149
+msgid "Vendor"
+msgstr "Fournisseur"
+
+#: src/sysinfo.sh:149
+msgid "Revision"
+msgstr "Révision"
+
+#: src/sysinfo.sh:153
+msgid "Loaded kernel modules"
+msgstr "Modules noyau chargés"
+
+#: src/sysinfo.sh:156
+msgid "Name"
+msgstr "Nom"
+
+#: src/sysinfo.sh:156
+msgid "Used"
+msgstr "Utilisé"
+
+#: src/sysinfo.sh:156
+msgid "Depends"
+msgstr "Dépendances"
+
+#: src/sysinfo.sh:160
+msgid "Battery state"
+msgstr "État de la batterie"
+
+#: src/sysinfo.sh:161
+msgid "Details"
+msgstr "Détails"
+
+#: src/sysinfo.sh:171
+msgid "Network information"
+msgstr "Informations réseau"
+
+#: src/sysinfo.sh:255
+msgid "Not found"
+msgstr "Introuvable"
+
+#: src/sysinfo.sh:261
+msgid "Hardware system information"
+msgstr "Informations matériel et système"
+
+#: src/sysinfo.sh:262
+msgid "OS"
+msgstr "OS"
+
+#: src/sysinfo.sh:262
+msgid "on"
+msgstr "sur"
+
+#: src/sysinfo.sh:265
+msgid "Moksha"
+msgstr "Moksha"
+
+#: src/sysinfo.sh:266
+msgid "Kernel"
+msgstr "Noyau"
+
+#: src/sysinfo.sh:272
+msgid "System information"
+msgstr "Information système"
+
+#: src/sysinfo.sh:273
+msgid "Copy report"
+msgstr "Copier le rapport"
+
+#: src/sysinfo.sh:274
+msgid "CPU"
+msgstr "CPU"
+
+#: src/sysinfo.sh:274
+msgid "Memory"
+msgstr "Mémoire"
+
+#: src/sysinfo.sh:275
+msgid "Disks"
+msgstr "Disques"
+
+#: src/sysinfo.sh:275
+msgid "PCI"
+msgstr "PCI"
+
+#: src/sysinfo.sh:275
+msgid "Modules"
+msgstr "Modules"
+
+#: src/sysinfo.sh:276
+msgid "Battery"
+msgstr "Batterie"
+
+#: src/sysinfo.sh:276
+msgid "Network"
+msgstr "Réseau"
+
+#: data/sysinfo.desktop.in.h:1
+msgid "System Information"
+msgstr "Informations système"
+
+#: data/sysinfo.desktop.in.h:2
+msgid "Display hardware and system information"
+msgstr "Affiche les informations sur le système et le matériel"
+
+#: data/sysinfo.desktop.in.h:3
+msgid "system;hardware;cpu;memory;disk;pci;network;battery;"
+msgstr "système;matériel;cpu;mémoire;disque;pci;réseau;batterie;"
