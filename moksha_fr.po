@@ -19,8 +19,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: moksha\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2026-06-13 07:08+0200\n"
-"PO-Revision-Date: 2026-06-13 09:42+0200\n"
+"POT-Creation-Date: 2026-07-26 08:46+0200\n"
+"PO-Revision-Date: 2026-07-26 09:17+0200\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -880,7 +880,7 @@ msgstr "Sélectionner"
 #: src/modules/syscon/e_syscon.c:122
 #: src/modules/quickaccess/e_mod_quickaccess.c:319
 #: src/modules/quickaccess/e_mod_quickaccess.c:381
-#: src/modules/shot/e_mod_delay.c:86 src/modules/shot/e_mod_preview.c:140
+#: src/modules/shot/e_mod_delay.c:86 src/modules/shot/e_mod_preview.c:144
 #: src/modules/shot/e_mod_share.c:288 src/modules/shot/e_mod_share.c:347
 #: src/modules/xkbswitch/e_mod_config.c:587
 msgid "Cancel"
@@ -1266,7 +1266,7 @@ msgid "Cut"
 msgstr "Couper"
 
 #: src/bin/e_entry.c:514 src/bin/e_fm.c:9123 src/bin/e_fm.c:11650
-#: src/modules/shot/e_mod_preview.c:131
+#: src/modules/shot/e_mod_preview.c:135
 msgid "Copy"
 msgstr "Copier"
 
@@ -9578,11 +9578,11 @@ msgstr ""
 msgid "Systray"
 msgstr "Zone de notification"
 
-#: src/modules/shot/e_mod_delay.c:47 src/modules/shot/e_mod_preview.c:89
+#: src/modules/shot/e_mod_delay.c:47 src/modules/shot/e_mod_preview.c:93
 msgid "Select action to take with screenshot"
 msgstr "Choisir l'action à appliquer à la capture"
 
-#: src/modules/shot/e_mod_delay.c:59 src/modules/shot/e_mod_preview.c:136
+#: src/modules/shot/e_mod_delay.c:59 src/modules/shot/e_mod_preview.c:140
 msgid "Delay"
 msgstr "Délai"
 
@@ -9591,105 +9591,125 @@ msgstr "Délai"
 msgid "%1.1f sec"
 msgstr "%1.1f s"
 
-#: src/modules/shot/e_mod_edit.c:1968
+#: src/modules/shot/e_mod_edit.c:2474
 msgid "Tools"
 msgstr "Outils"
 
-#: src/modules/shot/e_mod_edit.c:1980
+#: src/modules/shot/e_mod_edit.c:2486
 msgid "Select crop area"
 msgstr "Choisir la zone à recadrer"
 
-#: src/modules/shot/e_mod_edit.c:1981
+#: src/modules/shot/e_mod_edit.c:2487
 msgid "Modify objects"
 msgstr "Modifier des objets"
 
-#: src/modules/shot/e_mod_edit.c:1982
+#: src/modules/shot/e_mod_edit.c:2488
 msgid "Delete objects"
 msgstr "Supprimer des objets"
 
-#: src/modules/shot/e_mod_edit.c:1991
+#: src/modules/shot/e_mod_edit.c:2497
 msgid "Single arrow line"
 msgstr "Ligne à flèche directionnelle"
 
-#: src/modules/shot/e_mod_edit.c:1992
+#: src/modules/shot/e_mod_edit.c:2498
 msgid "Double arrow line"
 msgstr "Ligne à flèche bidirectionnelle"
 
-#: src/modules/shot/e_mod_edit.c:1993
+#: src/modules/shot/e_mod_edit.c:2499
 msgid "Plain line"
 msgstr "Ligne simple"
 
-#: src/modules/shot/e_mod_edit.c:1994
+#: src/modules/shot/e_mod_edit.c:2500
 msgid "Solid box"
 msgstr "Rectangle plein"
 
-#: src/modules/shot/e_mod_edit.c:1996
+#: src/modules/shot/e_mod_edit.c:2502
 msgid "Malloc"
 msgstr "Malloc"
 
-#: src/modules/shot/e_mod_edit.c:1997
+#: src/modules/shot/e_mod_edit.c:2503
 msgid "Malloc (evil)"
 msgstr "Malloc (en pétard)"
 
-#: src/modules/shot/e_mod_edit.c:1998
+#: src/modules/shot/e_mod_edit.c:2504
 msgid "Pointing finger"
 msgstr "Doigt pointé"
 
-#: src/modules/shot/e_mod_edit.c:1999
+#: src/modules/shot/e_mod_edit.c:2505
 msgid "Enlightenment logo"
 msgstr "Logo Enlightenment"
 
-#: src/modules/shot/e_mod_edit.c:2001
+#: src/modules/shot/e_mod_edit.c:2507
 msgid "Foot"
 msgstr "Pied"
 
-#: src/modules/shot/e_mod_edit.c:2002
+#: src/modules/shot/e_mod_edit.c:2508
 msgid "Silly walk"
 msgstr "Démarche ridicule"
 
-#: src/modules/shot/e_mod_edit.c:2003
+#: src/modules/shot/e_mod_edit.c:2509
 msgid "Box outline"
 msgstr "Contour rectangulaire"
 
-#: src/modules/shot/e_mod_edit.c:2004
+#: src/modules/shot/e_mod_edit.c:2510
 msgid "Circle outline"
 msgstr "Contour circulaire"
 
-#: src/modules/shot/e_mod_edit.c:2006
+#: src/modules/shot/e_mod_edit.c:2512
 msgid "Plain text"
 msgstr "Texte simple"
 
-#: src/modules/shot/e_mod_edit.c:2007
+#: src/modules/shot/e_mod_edit.c:2513
 msgid "Text box"
 msgstr "Encadrement"
 
-#: src/modules/shot/e_mod_edit.c:2008
+#: src/modules/shot/e_mod_edit.c:2514
 msgid "Text thought bubble"
 msgstr "Bulle pensée"
 
-#: src/modules/shot/e_mod_edit.c:2009
+#: src/modules/shot/e_mod_edit.c:2515
 msgid "Text thought bubble 2"
 msgstr "Bulle pensée 2"
 
-#: src/modules/shot/e_mod_edit.c:2011
+#: src/modules/shot/e_mod_edit.c:2517
 msgid "Speech bubble"
 msgstr "Bulle parlée"
 
-#: src/modules/shot/e_mod_edit.c:2012
+#: src/modules/shot/e_mod_edit.c:2518
 msgid "Speech bubble 2"
 msgstr "Bulle parlée 2"
 
-#: src/modules/shot/e_mod_edit.c:2013
+#: src/modules/shot/e_mod_edit.c:2519
 msgid "Kaboom splat"
 msgstr "Splash"
 
-#: src/modules/shot/e_mod_edit.c:2014
+#: src/modules/shot/e_mod_edit.c:2520
 msgid "Pow explode"
 msgstr "Explosion"
 
-#: src/modules/shot/e_mod_edit.c:2022
+#: src/modules/shot/e_mod_edit.c:2528
 msgid "Color"
 msgstr "Couleur"
+
+#: src/modules/shot/e_mod_edit.c:2617
+msgid "Zoom in"
+msgstr "Agrandir"
+
+#: src/modules/shot/e_mod_edit.c:2623
+msgid "Zoom reset"
+msgstr "Désactiver le zoom"
+
+#: src/modules/shot/e_mod_edit.c:2629
+msgid "Zoom out"
+msgstr "Réduire"
+
+#: src/modules/shot/e_mod_edit.c:2636
+msgid "Undo"
+msgstr "Annuler"
+
+#: src/modules/shot/e_mod_edit.c:2644
+msgid "Redo"
+msgstr "Rétablir"
 
 #: src/modules/shot/e_mod_main.c:346 src/modules/shot/e_mod_main.c:400
 msgid "Take Shot"
@@ -9707,15 +9727,15 @@ msgstr "Impossible d'initialiser le réseau"
 msgid "Take Screenshot with Delay"
 msgstr "Capture d'écran en différé"
 
-#: src/modules/shot/e_mod_preview.c:109
+#: src/modules/shot/e_mod_preview.c:113
 msgid "Quality"
 msgstr "Qualité"
 
-#: src/modules/shot/e_mod_preview.c:125
+#: src/modules/shot/e_mod_preview.c:129
 msgid "Save"
 msgstr "Enregistrer"
 
-#: src/modules/shot/e_mod_preview.c:128
+#: src/modules/shot/e_mod_preview.c:132
 msgid "Share"
 msgstr "Partager"
 
@@ -10141,7 +10161,7 @@ msgstr " Utiliser le tampon primaire"
 
 #: src/modules/clipboard/e_mod_config.c:202
 msgid " Synchronize Clipboards"
-msgstr " Synchroniser les presse-papiers"
+msgstr " Synchroniser le presse-papiers"
 
 #: src/modules/clipboard/e_mod_config.c:210
 msgid "Content"
@@ -10225,7 +10245,7 @@ msgid ""
 "You wish to delete the clipboards history.<br><br>Are you sure you want to "
 "delete it?"
 msgstr ""
-"Vous avez demandé à supprimer l'historique des presse-papiers.<br><br>Voulez-"
+"Vous avez demandé à supprimer l'historique du presse-papiers.<br><br>Voulez-"
 "vous vraiment le faire ?"
 
 #: src/modules/clipboard/e_mod_main.c:780
